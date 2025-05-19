@@ -168,6 +168,7 @@
 
 ## Others 
 
+- [ufuayk/my-stars](https://github.com/ufuayk/my-stars) - 
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [ufuayk/ai-benchmark-claude-3.7](https://github.com/ufuayk/ai-benchmark-claude-3.7) - Results of mainstream AIs for a single coding prompt.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
@@ -300,6 +301,7 @@
 
 ## TypeScript 
 
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email
 - [AstaBlackClove/blazecast](https://github.com/AstaBlackClove/blazecast) - Blazecast – A blazing-fast Windows productivity launcher, inspired by Raycast. Built with Rust, React, and Tauri.
@@ -310,7 +312,7 @@
 - [computebaker/tekir](https://github.com/computebaker/tekir) - Frontend for the Tekir metasearch engine!
 - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App with AI
 - [Nutlope/llamacoder](https://github.com/Nutlope/llamacoder) - Open source Claude Artifacts – built with Llama 3.1 405B
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
