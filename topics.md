@@ -853,7 +853,6 @@
 
 ## others 
 
-- [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [ufuayk/my-stars](https://github.com/ufuayk/my-stars) - 
 - [ufuayk/StudyLog](https://github.com/ufuayk/StudyLog) - useful
@@ -1010,6 +1009,7 @@
 
 ## rust 
 
+- [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [oiwn/tarts](https://github.com/oiwn/tarts) - Screen saves and visual effects for your terminal!
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
@@ -1118,6 +1118,7 @@
 
 ## terminal 
 
+- [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [ismail-yilmaz/Bobcat](https://github.com/ismail-yilmaz/Bobcat) - A powerful yet user-friendly cross-platform terminal emulator.
