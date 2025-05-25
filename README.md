@@ -107,6 +107,7 @@
 
 ## JavaScript 
 
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [ufuayk/hyprconf-gen](https://github.com/ufuayk/hyprconf-gen) - A Hyprland configuration editor. In your browser!
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
@@ -169,6 +170,7 @@
 
 ## Others 
 
+- [devsecops/awesome-devsecops](https://github.com/devsecops/awesome-devsecops) - An authoritative list of awesome devsecops tools with the help from community experiments and contributions.
 - [ufuayk/my-stars](https://github.com/ufuayk/my-stars) - 
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [ufuayk/ai-benchmark-claude-3.7](https://github.com/ufuayk/ai-benchmark-claude-3.7) - Results of mainstream AIs for a single coding prompt.
@@ -208,6 +210,7 @@
 
 ## Python 
 
+- [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - A cross-platform fluent-design AI-boost multi-threaded downloader built with Python.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [ufuayk/system-profiler](https://github.com/ufuayk/system-profiler) - Easy to use system profiler tool.
 - [nwg-piotr/nwg-displays](https://github.com/nwg-piotr/nwg-displays) - Output management utility for sway and Hyprland.
@@ -303,6 +306,7 @@
 
 ## TypeScript 
 
+- [kortix-ai/suna](https://github.com/kortix-ai/suna) - Suna - Open Source Generalist AI Agent
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email
