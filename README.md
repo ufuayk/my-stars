@@ -10,6 +10,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
+- [Crystal](#crystal)
 - [Dart](#dart)
 - [Go](#go)
 - [HTML](#html)
@@ -73,6 +74,10 @@
 - [johnggli/linktree](https://github.com/johnggli/linktree) - Simple site to group all my profiles on social networks in one place. A free Linktree alternative.
 - [ufuayk/Flask-Portfolio-Page](https://github.com/ufuayk/Flask-Portfolio-Page) - Single page, simple portfolio site example developed using Python and Flask.
 
+## Crystal 
+
+- [ralsina/grafito](https://github.com/ralsina/grafito) - A simple, nice journald web frontend
+
 ## Dart 
 
 - [ente-io/ente](https://github.com/ente-io/ente) - ✨ End-to-end encrypted cloud for photos, videos and 2FA secrets.
@@ -101,7 +106,6 @@
 - [ufuayk/music-albums-cover-gallery](https://github.com/ufuayk/music-albums-cover-gallery) - Web application that allows users to share and discover album covers.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [ufuayk/hey-markdown](https://github.com/ufuayk/hey-markdown) - A powerful Markdown editor for modern creators.
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - This project is waiting for your contribution. If you have never contributed code on GitHub before, this is the project to get you started.
 - [Umitt96/Business-Game](https://github.com/Umitt96/Business-Game) - It's not responsive, only pc
 
@@ -235,6 +239,7 @@
 - [martinvigo/email2phonenumber](https://github.com/martinvigo/email2phonenumber) - A OSINT tool to obtain a target's phone number just by having his email address
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
 - [ziadOUA/m3-Markdown-Badges](https://github.com/ziadOUA/m3-Markdown-Badges) - 🏅 A Material You inspired markdown badge collection.
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [ufuayk/Lightweight-Crosshair](https://github.com/ufuayk/Lightweight-Crosshair) - A lightweight and hackable on-screen crosshair software.
 - [beucismis/awesome-fetch](https://github.com/beucismis/awesome-fetch) - Command-line fetch tools for system/other information
