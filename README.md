@@ -10,7 +10,6 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
-- [Crystal](#crystal)
 - [Dart](#dart)
 - [Go](#go)
 - [HTML](#html)
@@ -74,10 +73,6 @@
 - [johnggli/linktree](https://github.com/johnggli/linktree) - Simple site to group all my profiles on social networks in one place. A free Linktree alternative.
 - [ufuayk/Flask-Portfolio-Page](https://github.com/ufuayk/Flask-Portfolio-Page) - Single page, simple portfolio site example developed using Python and Flask.
 
-## Crystal 
-
-- [ralsina/grafito](https://github.com/ralsina/grafito) - A simple, nice journald web frontend
-
 ## Dart 
 
 - [adeeteya/Classipod](https://github.com/adeeteya/Classipod) - A local music player app designed to capture the nostalgic essence of the iconic iPod Classic.
@@ -97,6 +92,7 @@
 
 ## HTML 
 
+- [ralsina/grafito](https://github.com/ralsina/grafito) - A simple, nice journald web frontend
 - [ufuayk/ai-benchmark-portfolio](https://github.com/ufuayk/ai-benchmark-portfolio) - Results of mainstream AIs for a single coding prompt.
 - [ufuayk/Arat](https://github.com/ufuayk/Arat) - "hemen Arat" 🔎
 - [ufuayk/Questor](https://github.com/ufuayk/Questor) - Questor is an artificial intelligence research engine that tries to be friendly to everyone.
