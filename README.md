@@ -253,6 +253,7 @@
 
 ## Rust 
 
+- [rochacbruno/marmite](https://github.com/rochacbruno/marmite) - Markdown makes sites - A Static Site Generator for Blogs
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [oiwn/tarts](https://github.com/oiwn/tarts) - Screen saves and visual effects for your terminal!
