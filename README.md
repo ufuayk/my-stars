@@ -172,6 +172,7 @@
 
 ## Others 
 
+- [sursly/sono](https://github.com/sursly/sono) - A soft monospace variable font
 - [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) - HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac  :tada:  Open an issue here to give feedback or ask for help.
 - [devsecops/awesome-devsecops](https://github.com/devsecops/awesome-devsecops) - An authoritative list of awesome devsecops tools with the help from community experiments and contributions.
 - [ufuayk/my-stars](https://github.com/ufuayk/my-stars) - 
