@@ -784,7 +784,7 @@
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [lzhoang2801/OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) - A tool designed to simplify the creation of OpenCore EFI
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
-- [sileshn/Ryzentosh](https://github.com/sileshn/Ryzentosh) - Opencore files to run MacOS Catalina to Sequoia on AMD Ryzen 5 3600 CPU, AMD Radeon RX570 4gb GPU and Gigabyte B450 Aorus Elite motherboard using the BsxOc1 theme.
+- [sileshn/Ryzentosh](https://github.com/sileshn/Ryzentosh) - Opencore files to run MacOS Catalina to Tahoe on AMD Ryzen 5 3600 CPU, AMD Radeon RX570 4gb GPU and Gigabyte B450 Aorus Elite motherboard using the BsxOc1 theme.
 - [mikigal/ryzen-hackintosh](https://github.com/mikigal/ryzen-hackintosh) - OpenCore EFI for AMD Ryzen Hackintosh
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 
