@@ -195,7 +195,7 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [alicangunduz/yeni-yazilimcilar-icin](https://github.com/alicangunduz/yeni-yazilimcilar-icin) - 👋🏻  Merhabalar bu kaynak yazılıma yeni başlamış geliştiriciler için tamamen ücretsiz türkçe kaynaklardan oluşturulmuştur. Kaynağı daha rahat bulmak için sağ üstte yer alan ⭐ butonunu kullanabilirsiniz
 - [yvoronoy/awesome-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English.
-- [sileshn/Ryzentosh](https://github.com/sileshn/Ryzentosh) - Opencore files to run MacOS Catalina to Sequoia on AMD Ryzen 5 3600 CPU, AMD Radeon RX570 4gb GPU and Gigabyte B450 Aorus Elite motherboard using the BsxOc1 theme.
+- [sileshn/Ryzentosh](https://github.com/sileshn/Ryzentosh) - Opencore files to run MacOS Catalina to Tahoe on AMD Ryzen 5 3600 CPU, AMD Radeon RX570 4gb GPU and Gigabyte B450 Aorus Elite motherboard using the BsxOc1 theme.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀
 - [44bits/awesome-opensource-documents](https://github.com/44bits/awesome-opensource-documents) - :blue_book: A curated list of awesome open source or open source licensed documents, guides, books.
