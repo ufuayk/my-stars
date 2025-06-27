@@ -900,15 +900,16 @@
 
 ## others 
 
+- [klembot/twinejs](https://github.com/klembot/twinejs) - Twine, a tool for telling interactive, nonlinear stories
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [ralsina/grafito](https://github.com/ralsina/grafito) - A simple, nice journald web frontend
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [ufuayk/my-stars](https://github.com/ufuayk/my-stars) - 
 - [ufuayk/StudyLog](https://github.com/ufuayk/StudyLog) - useful
-- [ufuayk/ai-benchmark-claude-3.7](https://github.com/ufuayk/ai-benchmark-claude-3.7) - Results of mainstream AIs for a single coding prompt.
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [AstaBlackClove/blazecast](https://github.com/AstaBlackClove/blazecast) - Blazecast – A blazing-fast Windows productivity launcher, inspired by Raycast. Built with Rust, React, and Tauri.
-- [ufuayk/system-profiler](https://github.com/ufuayk/system-profiler) - Easy to use system profiler tool.
+- [mbrell/system-profiler](https://github.com/mbrell/system-profiler) - Easy to use system profiler tool.
 - [nwg-piotr/nwg-displays](https://github.com/nwg-piotr/nwg-displays) - Output management utility for sway and Hyprland.
 - [bitburner-official/bitburner-src](https://github.com/bitburner-official/bitburner-src) - Bitburner source code.
 - [nwg-piotr/nwg-iso](https://github.com/nwg-piotr/nwg-iso) - Arch Linux ISO with nwg-shell for sway and Hyprland
@@ -1014,6 +1015,7 @@
 
 ## python 
 
+- [mbrell/dns-lookup](https://github.com/mbrell/dns-lookup) - DNS Lookup tool.
 - [AnonymouX47/term-image](https://github.com/AnonymouX47/term-image) - Display images in the terminal with python
 - [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - A cross-platform fluent-design AI-boost multi-threaded downloader built with Python.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
@@ -1091,7 +1093,7 @@
 - [irevenko/ferris-fetch](https://github.com/irevenko/ferris-fetch) - 🎨🦀 A system information tool for Rustaceans
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
-- [ufuayk/rust-webscraping](https://github.com/ufuayk/rust-webscraping) - Web scraping script in Rust language coded with the ai.
+- [mbrell/rust-webscraping](https://github.com/mbrell/rust-webscraping) - Web scraping script.
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
