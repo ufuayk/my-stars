@@ -85,7 +85,6 @@
 - [instagram](#instagram)
 - [ios](#ios)
 - [javascript](#javascript)
-- [jquery](#jquery)
 - [js](#js)
 - [json](#json)
 - [julia](#julia)
@@ -361,7 +360,6 @@
 - [ufuayk/FocusGit](https://github.com/ufuayk/FocusGit) - Browser add-on that provides a clean and minimal GitHub interface.
 - [ufuayk/FOCUSPDF](https://github.com/ufuayk/FOCUSPDF) - Meet FOCUSPDF. Your next PDF viewer.
 - [ufuayk/naptrack](https://github.com/ufuayk/naptrack) - Elegant web application for tracking your sleep and nap patterns.
-- [ufuayk/My-Dream-Factory](https://github.com/ufuayk/My-Dream-Factory) - Welcome to My Dream Factory, a simulation game where you manage a manufacturing business and optimize operations.
 - [ufuayk/hey-markdown](https://github.com/ufuayk/hey-markdown) - A powerful Markdown editor for modern creators.
 - [Vinayak-09/Vinayak-09.github.io](https://github.com/Vinayak-09/Vinayak-09.github.io) - Advance attractive personal portfolio website. It looks like chatting bot. Same design as Whatsapp chat. Lightweighted, Fast. Easy to use.
 - [ufuayk/UltraType](https://github.com/ufuayk/UltraType) - A typing speed test site with a fun and modern interface based on motivational quotes to test your keyboard typing speed.
@@ -523,7 +521,6 @@
 ## game 
 
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
-- [ufuayk/My-Dream-Factory](https://github.com/ufuayk/My-Dream-Factory) - Welcome to My Dream Factory, a simulation game where you manage a manufacturing business and optimize operations.
 - [The-Powder-Toy/The-Powder-Toy](https://github.com/The-Powder-Toy/The-Powder-Toy) - Written in C++ and using SDL, The Powder Toy is a desktop version of the classic 'falling sand' physics sandbox, it simulates air pressure and velocity as well as heat.
 - [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
 - [ufuayk/Heads-or-Tails](https://github.com/ufuayk/Heads-or-Tails) - Heads-or-Tails makes flipping a coin easy! And it's fun.
@@ -531,7 +528,6 @@
 ## game-development 
 
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
-- [ufuayk/My-Dream-Factory](https://github.com/ufuayk/My-Dream-Factory) - Welcome to My Dream Factory, a simulation game where you manage a manufacturing business and optimize operations.
 
 ## game-engine 
 
@@ -540,7 +536,6 @@
 ## gamedev 
 
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
-- [ufuayk/My-Dream-Factory](https://github.com/ufuayk/My-Dream-Factory) - Welcome to My Dream Factory, a simulation game where you manage a manufacturing business and optimize operations.
 
 ## games 
 
@@ -628,7 +623,6 @@
 - [ufuayk/music-albums-cover-gallery](https://github.com/ufuayk/music-albums-cover-gallery) - Web application that allows users to share and discover album covers.
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [ufuayk/naptrack](https://github.com/ufuayk/naptrack) - Elegant web application for tracking your sleep and nap patterns.
-- [ufuayk/My-Dream-Factory](https://github.com/ufuayk/My-Dream-Factory) - Welcome to My Dream Factory, a simulation game where you manage a manufacturing business and optimize operations.
 - [ufuayk/hey-markdown](https://github.com/ufuayk/hey-markdown) - A powerful Markdown editor for modern creators.
 - [Vinayak-09/Vinayak-09.github.io](https://github.com/Vinayak-09/Vinayak-09.github.io) - Advance attractive personal portfolio website. It looks like chatting bot. Same design as Whatsapp chat. Lightweighted, Fast. Easy to use.
 - [ufuayk/UltraType](https://github.com/ufuayk/UltraType) - A typing speed test site with a fun and modern interface based on motivational quotes to test your keyboard typing speed.
@@ -677,14 +671,9 @@
 - [Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - This project is waiting for your contribution. If you have never contributed code on GitHub before, this is the project to get you started.
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 
-## jquery 
-
-- [ufuayk/My-Dream-Factory](https://github.com/ufuayk/My-Dream-Factory) - Welcome to My Dream Factory, a simulation game where you manage a manufacturing business and optimize operations.
-
 ## js 
 
 - [Stigmatoz/web-activity-time-tracker](https://github.com/Stigmatoz/web-activity-time-tracker) - Chrome Extension that tracks and limits time you spent on sites
-- [ufuayk/My-Dream-Factory](https://github.com/ufuayk/My-Dream-Factory) - Welcome to My Dream Factory, a simulation game where you manage a manufacturing business and optimize operations.
 - [ufuayk/hey-markdown](https://github.com/ufuayk/hey-markdown) - A powerful Markdown editor for modern creators.
 - [ufuayk/UltraType](https://github.com/ufuayk/UltraType) - A typing speed test site with a fun and modern interface based on motivational quotes to test your keyboard typing speed.
 
