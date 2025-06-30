@@ -123,7 +123,6 @@
 - [ufuayk/uniter](https://github.com/ufuayk/uniter) - [TR] Bu uygulama, öğrencilerin YKS sıralamalarına göre yerleşebilecekleri bölümleri kolayca bulmalarını sağlar.
 - [ekinndev/yokatlas-universite](https://github.com/ekinndev/yokatlas-universite) - Yökatlas Üniversite Bölüm Listesi Bot
 - [ufuayk/smartboard-buddy](https://github.com/ufuayk/smartboard-buddy) - An interactive web application designed to assist teachers using smart boards in classrooms.
-- [ufuayk/My-Dream-Factory](https://github.com/ufuayk/My-Dream-Factory) - Welcome to My Dream Factory, a simulation game where you manage a manufacturing business and optimize operations.
 - [shevabam/breaking-bad-quotes](https://github.com/shevabam/breaking-bad-quotes) - A simple API to retrieve some quotes of Breaking Bad, bitch!
 - [alicangunduz/30-Days-Of-JavaScript-Turkce](https://github.com/alicangunduz/30-Days-Of-JavaScript-Turkce) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
 - [DistributionHub/distributionhub.github.io](https://github.com/DistributionHub/distributionhub.github.io) - A handy website that allows you to download all Linux/BSD distributions in one place with one click.
