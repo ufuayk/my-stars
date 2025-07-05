@@ -215,7 +215,8 @@
 
 ## Python 
 
-- [mbrell/c0admin](https://github.com/mbrell/c0admin) - Suggests GNU/Linux terminal commands from natural language using AI.
+- [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+- [mbrell/c0admin](https://github.com/mbrell/c0admin) - A terminal-based AI assistant for Linux sysadmins that responds with pure shell commands only.
 - [mbrell/dns-lookup](https://github.com/mbrell/dns-lookup) - DNS Lookup tool.
 - [AnonymouX47/term-image](https://github.com/AnonymouX47/term-image) - Display images in the terminal with python
 - [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - A cross-platform fluent-design AI-boost multi-threaded downloader built with Python.
