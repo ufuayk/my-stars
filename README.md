@@ -262,6 +262,7 @@
 
 ## Rust 
 
+- [oleiade/motus](https://github.com/oleiade/motus) - A dead simple password generator
 - [rochacbruno/marmite](https://github.com/rochacbruno/marmite) - Markdown makes sites - A Static Site Generator for Blogs
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
@@ -322,6 +323,7 @@
 
 ## TypeScript 
 
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [klembot/twinejs](https://github.com/klembot/twinejs) - Twine, a tool for telling interactive, nonlinear stories
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
