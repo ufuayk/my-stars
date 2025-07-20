@@ -28,6 +28,7 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
+- [cms](#cms)
 - [coding](#coding)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
@@ -314,13 +315,11 @@
 
 ## chrome 
 
-- [XengShi/materialYouNewTab](https://github.com/XengShi/materialYouNewTab) - A Simple New Tab ( browsers's home page ) inspired with Google's 'Material You' design
 - [ufuayk/FocusGit](https://github.com/ufuayk/FocusGit) - Browser add-on that provides a clean and minimal GitHub interface.
 
 ## chrome-extension 
 
 - [Stigmatoz/web-activity-time-tracker](https://github.com/Stigmatoz/web-activity-time-tracker) - Chrome Extension that tracks and limits time you spent on sites
-- [XengShi/materialYouNewTab](https://github.com/XengShi/materialYouNewTab) - A Simple New Tab ( browsers's home page ) inspired with Google's 'Material You' design
 
 ## cli 
 
@@ -339,6 +338,11 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [beucismis/awesome-fetch](https://github.com/beucismis/awesome-fetch) - Command-line fetch tools for system/other information
 - [ufuayk/brofetch](https://github.com/ufuayk/brofetch) - A detailed and fun command-line system information tool.
+
+## cms 
+
+- [rochacbruno/marmite](https://github.com/rochacbruno/marmite) - Markdown makes sites - A Static Site Generator for Blogs
+- [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
 
 ## coding 
 
@@ -375,7 +379,6 @@
 
 ## css 
 
-- [XengShi/materialYouNewTab](https://github.com/XengShi/materialYouNewTab) - A Simple New Tab ( browsers's home page ) inspired with Google's 'Material You' design
 - [ufuayk/music-albums-cover-gallery](https://github.com/ufuayk/music-albums-cover-gallery) - Web application that allows users to share and discover album covers.
 - [ufuayk/FocusGit](https://github.com/ufuayk/FocusGit) - Browser add-on that provides a clean and minimal GitHub interface.
 - [ufuayk/FOCUSPDF](https://github.com/ufuayk/FOCUSPDF) - Meet FOCUSPDF. Your next PDF viewer.
@@ -654,7 +657,6 @@
 
 ## html 
 
-- [XengShi/materialYouNewTab](https://github.com/XengShi/materialYouNewTab) - A Simple New Tab ( browsers's home page ) inspired with Google's 'Material You' design
 - [ufuayk/music-albums-cover-gallery](https://github.com/ufuayk/music-albums-cover-gallery) - Web application that allows users to share and discover album covers.
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [ufuayk/naptrack](https://github.com/ufuayk/naptrack) - Elegant web application for tracking your sleep and nap patterns.
@@ -694,7 +696,6 @@
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
-- [XengShi/materialYouNewTab](https://github.com/XengShi/materialYouNewTab) - A Simple New Tab ( browsers's home page ) inspired with Google's 'Material You' design
 - [ufuayk/music-albums-cover-gallery](https://github.com/ufuayk/music-albums-cover-gallery) - Web application that allows users to share and discover album covers.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
@@ -836,7 +837,6 @@
 
 ## material-design 
 
-- [XengShi/materialYouNewTab](https://github.com/XengShi/materialYouNewTab) - A Simple New Tab ( browsers's home page ) inspired with Google's 'Material You' design
 - [ziadOUA/m3-Markdown-Badges](https://github.com/ziadOUA/m3-Markdown-Badges) - 🏅 A Material You inspired markdown badge collection.
 
 ## microsoft 
