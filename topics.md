@@ -191,6 +191,7 @@
 
 ## android 
 
+- [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [adeeteya/Classipod](https://github.com/adeeteya/Classipod) - A local music player app designed to capture the nostalgic essence of the iconic iPod Classic.
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
