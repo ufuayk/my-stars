@@ -946,6 +946,7 @@
 
 ## others 
 
+- [mbrell/c0admin-system-instructions](https://github.com/mbrell/c0admin-system-instructions) - A system instructions repo for c0admin.
 - [mattrltrent/github_painter](https://github.com/mattrltrent/github_painter) - 🎨 Create a custom design for your GitHub Commit Contribution Graph. 1st on Google. Try it!
 - [shreyash0x3/dotfiles-web](https://github.com/shreyash0x3/dotfiles-web) - 
 - [klembot/twinejs](https://github.com/klembot/twinejs) - Twine, a tool for telling interactive, nonlinear stories
