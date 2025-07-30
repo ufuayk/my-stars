@@ -212,6 +212,7 @@
 
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [shevabam/breaking-bad-quotes](https://github.com/shevabam/breaking-bad-quotes) - A simple API to retrieve some quotes of Breaking Bad, bitch!
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## archlinux 
@@ -1021,7 +1022,6 @@
 - [alicangunduz/30-Days-Of-JavaScript-Turkce](https://github.com/alicangunduz/30-Days-Of-JavaScript-Turkce) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
 - [alicangunduz/yeni-yazilimcilar-icin](https://github.com/alicangunduz/yeni-yazilimcilar-icin) - 👋🏻  Merhabalar bu kaynak yazılıma yeni başlamış geliştiriciler için tamamen ücretsiz türkçe kaynaklardan oluşturulmuştur. Kaynağı daha rahat bulmak için sağ üstte yer alan ⭐ butonunu kullanabilirsiniz
 - [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) - A guide to contributing to open source
-- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀
 - [44bits/awesome-opensource-documents](https://github.com/44bits/awesome-opensource-documents) - :blue_book: A curated list of awesome open source or open source licensed documents, guides, books.
 - [face-hh/griddycode](https://github.com/face-hh/griddycode) - A code editor made with Godot. Code has never been more lit!
 - [Umitt96/Business-Game](https://github.com/Umitt96/Business-Game) - It's not responsive, only pc
