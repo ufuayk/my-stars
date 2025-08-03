@@ -966,7 +966,7 @@
 - [kamaaina/macropad_tool](https://github.com/kamaaina/macropad_tool) - tool to program a macropad
 - [mbrell/c0admin-system-instructions](https://github.com/mbrell/c0admin-system-instructions) - A system instructions repo for c0admin.
 - [mattrltrent/github_painter](https://github.com/mattrltrent/github_painter) - 🎨 Create a custom design for your GitHub Commit Contribution Graph. 1st on Google. Try it!
-- [shreyash0x3/dotfiles-web](https://github.com/shreyash0x3/dotfiles-web) - 
+- [shreyash0x3/dotfiles-web](https://github.com/shreyash0x3/dotfiles-web) - site for exploring RICED systems and accessing dotfiles easily
 - [klembot/twinejs](https://github.com/klembot/twinejs) - Twine, a tool for telling interactive, nonlinear stories
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
@@ -1082,6 +1082,7 @@
 
 ## python 
 
+- [saidsurucu/yokatlas-py](https://github.com/saidsurucu/yokatlas-py) - A Python wrapper for YOK Atlas API.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [mbrell/c0admin](https://github.com/mbrell/c0admin) - A terminal-based AI assistant for Linux sysadmins.
