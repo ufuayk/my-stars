@@ -962,6 +962,7 @@
 
 ## others 
 
+- [romainmarcoux/malicious-hash](https://github.com/romainmarcoux/malicious-hash) - Aggregation of lists of malicious hashes of malware that can be integrated into FortiGate firewalls and other products.
 - [ufuayk/milestones](https://github.com/ufuayk/milestones) - Milestones app.
 - [kamaaina/macropad_tool](https://github.com/kamaaina/macropad_tool) - tool to program a macropad
 - [mbrell/c0admin-system-instructions](https://github.com/mbrell/c0admin-system-instructions) - A system instructions repo for c0admin.
