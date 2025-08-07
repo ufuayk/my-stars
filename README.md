@@ -177,6 +177,7 @@
 
 ## Others 
 
+- [romainmarcoux/malicious-hash](https://github.com/romainmarcoux/malicious-hash) - Aggregation of lists of malicious hashes of malware that can be integrated into FortiGate firewalls and other products.
 - [ufuayk/milestones](https://github.com/ufuayk/milestones) - Milestones app.
 - [mbrell/c0admin-system-instructions](https://github.com/mbrell/c0admin-system-instructions) - A system instructions repo for c0admin.
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
