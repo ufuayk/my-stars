@@ -94,7 +94,6 @@
 
 ## HTML 
 
-- [ozancolhak/cyberscenariosgame](https://github.com/ozancolhak/cyberscenariosgame) - 
 - [ralsina/grafito](https://github.com/ralsina/grafito) - A simple, nice journald web frontend
 - [ufuayk/ai-benchmark-portfolio](https://github.com/ufuayk/ai-benchmark-portfolio) - Results of mainstream AIs for a single coding prompt.
 - [ufuayk/Arat](https://github.com/ufuayk/Arat) - "hemen Arat" 🔎
