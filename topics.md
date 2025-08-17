@@ -841,6 +841,7 @@
 ## macos 
 
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
+- [mbrell/c0admin](https://github.com/mbrell/c0admin) - A terminal-based AI assistant for Linux sysadmins.
 - [oSoWoSo/quickemu](https://github.com/oSoWoSo/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines. Checkout also DistroHopper:
 - [ismail-yilmaz/Bobcat](https://github.com/ismail-yilmaz/Bobcat) - A powerful yet user-friendly cross-platform terminal emulator.
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency.
