@@ -972,6 +972,7 @@
 
 ## others 
 
+- [jeroenpardon/sui](https://github.com/jeroenpardon/sui) - a startpage for your server and / or new tab page
 - [gayret/ataturk](https://github.com/gayret/ataturk) - Ulu Önder Mustafa Kemal Atatürk'ün hayatını görsel ve işitsel kaynaklarla anlatan web uygulama.
 - [romainmarcoux/malicious-hash](https://github.com/romainmarcoux/malicious-hash) - Aggregation of lists of malicious hashes of malware that can be integrated into FortiGate firewalls and other products.
 - [kamaaina/macropad_tool](https://github.com/kamaaina/macropad_tool) - tool to program a macropad
