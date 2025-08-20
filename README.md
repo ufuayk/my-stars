@@ -110,6 +110,7 @@
 
 ## JavaScript 
 
+- [jeroenpardon/sui](https://github.com/jeroenpardon/sui) - a startpage for your server and / or new tab page
 - [mattrltrent/github_painter](https://github.com/mattrltrent/github_painter) - 🎨 Create a custom design for your GitHub Commit Contribution Graph. 1st on Google. Try it!
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [shreyash0x3/dotfiles-web](https://github.com/shreyash0x3/dotfiles-web) - site for exploring RICED systems and accessing dotfiles easily
