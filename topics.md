@@ -955,7 +955,6 @@
 
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
-- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 
 ## opengl 
@@ -1007,6 +1006,7 @@
 - [ufuayk/ai-benchmark-weather](https://github.com/ufuayk/ai-benchmark-weather) - Results of mainstream AIs for a single coding prompt.
 - [computebaker/tekir](https://github.com/computebaker/tekir) - Frontend for the Tekir metasearch engine!
 - [davepl/Grok3-Breakout](https://github.com/davepl/Grok3-Breakout) - 
+- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [waroi/TurkcellFrontend2025](https://github.com/waroi/TurkcellFrontend2025) - TurkcellFrontend2025
 - [ufuayk/readallcomics-pdf-tool](https://github.com/ufuayk/readallcomics-pdf-tool) - Please create an output folder and links.txt file in the same folder as main.py.
