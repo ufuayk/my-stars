@@ -184,6 +184,7 @@
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [ufuayk/Questor](https://github.com/ufuayk/Questor) - Questor is an artificial intelligence research engine that tries to be friendly to everyone.
+- [computebaker/tekir](https://github.com/computebaker/tekir) - Public source code for the Tekir, the capable search engine.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 - [EvanZhouDev/open-genmoji](https://github.com/EvanZhouDev/open-genmoji) - Generative Emoji for the rest of us.
@@ -910,6 +911,7 @@
 
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
+- [computebaker/tekir](https://github.com/computebaker/tekir) - Public source code for the Tekir, the capable search engine.
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [serafimcloud/21st](https://github.com/serafimcloud/21st) - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks
@@ -1004,7 +1006,6 @@
 - [lazylinuxos/lazy-wallpapers](https://github.com/lazylinuxos/lazy-wallpapers) - Wallpapers for LazyLinux
 - [ufuayk/ai-benchmark-saas](https://github.com/ufuayk/ai-benchmark-saas) - Results of mainstream AIs for a single coding prompt.
 - [ufuayk/ai-benchmark-weather](https://github.com/ufuayk/ai-benchmark-weather) - Results of mainstream AIs for a single coding prompt.
-- [computebaker/tekir](https://github.com/computebaker/tekir) - Frontend for the Tekir metasearch engine!
 - [davepl/Grok3-Breakout](https://github.com/davepl/Grok3-Breakout) - 
 - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
@@ -1074,6 +1075,7 @@
 - [ethereal-developers/OpenScan](https://github.com/ethereal-developers/OpenScan) - Document Scanner that protects your privacy
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
+- [computebaker/tekir](https://github.com/computebaker/tekir) - Public source code for the Tekir, the capable search engine.
 - [martinvigo/email2phonenumber](https://github.com/martinvigo/email2phonenumber) - A OSINT tool to obtain a target's phone number just by having his email address
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
