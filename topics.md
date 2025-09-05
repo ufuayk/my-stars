@@ -782,6 +782,7 @@
 
 ## linux 
 
+- [marhkb/pods](https://github.com/marhkb/pods) - Keep track of your podman containers
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 - [mbrell/c0admin](https://github.com/mbrell/c0admin) - A terminal-based AI assistant for Linux sysadmins.
@@ -973,6 +974,8 @@
 
 ## others 
 
+- [dazeb/proxmox-dietpi-installer](https://github.com/dazeb/proxmox-dietpi-installer) - A Proxmox Helper Script to install DietPi in Proxmox
+- [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [jeroenpardon/sui](https://github.com/jeroenpardon/sui) - a startpage for your server and / or new tab page
 - [gayret/ataturk](https://github.com/gayret/ataturk) - Ulu Önder Mustafa Kemal Atatürk'ün hayatını görsel ve işitsel kaynaklarla anlatan web uygulama.
@@ -1170,6 +1173,7 @@
 
 ## rust 
 
+- [marhkb/pods](https://github.com/marhkb/pods) - Keep track of your podman containers
 - [oleiade/motus](https://github.com/oleiade/motus) - A dead simple password generator
 - [rochacbruno/marmite](https://github.com/rochacbruno/marmite) - Markdown makes sites - A Static Site Generator for Blogs
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
