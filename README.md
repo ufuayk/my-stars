@@ -82,6 +82,7 @@
 
 ## Go 
 
+- [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
@@ -272,6 +273,7 @@
 
 ## Rust 
 
+- [marhkb/pods](https://github.com/marhkb/pods) - Keep track of your podman containers
 - [kamaaina/macropad_tool](https://github.com/kamaaina/macropad_tool) - tool to program a macropad
 - [oleiade/motus](https://github.com/oleiade/motus) - A dead simple password generator
 - [rochacbruno/marmite](https://github.com/rochacbruno/marmite) - Markdown makes sites - A Static Site Generator for Blogs
@@ -305,6 +307,7 @@
 
 ## Shell 
 
+- [dazeb/proxmox-dietpi-installer](https://github.com/dazeb/proxmox-dietpi-installer) - A Proxmox Helper Script to install DietPi in Proxmox
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install with the Dotfiles Installer app with setup scripts for Arc
 - [madic-creates/Sway-DE](https://github.com/madic-creates/Sway-DE) - 🏠 Sway desktop environment dotfile installation for Arch Linux
