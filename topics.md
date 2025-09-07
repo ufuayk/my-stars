@@ -75,6 +75,7 @@
 - [gamedev](#gamedev)
 - [gamemaker](#gamemaker)
 - [games](#games)
+- [gaming](#gaming)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -603,6 +604,10 @@
 ## games 
 
 - [RareDevs/Rare](https://github.com/RareDevs/Rare) - Rare is an open source alternative for Epic Games Launcher, using Legendary.
+
+## gaming 
+
+- [ufuayk/Lightweight-Crosshair](https://github.com/ufuayk/Lightweight-Crosshair) - A lightweight and hackable on-screen crosshair software.
 
 ## git 
 
