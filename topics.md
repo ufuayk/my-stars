@@ -979,6 +979,7 @@
 
 ## others 
 
+- [the-ora/browser](https://github.com/the-ora/browser) - Less noise, more browsing.
 - [dazeb/proxmox-dietpi-installer](https://github.com/dazeb/proxmox-dietpi-installer) - A Proxmox Helper Script to install DietPi in Proxmox
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
