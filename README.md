@@ -333,6 +333,7 @@
 
 ## Swift 
 
+- [the-ora/browser](https://github.com/the-ora/browser) - Less noise, more browsing.
 - [f/Clues.app](https://github.com/f/Clues.app) - This app is built using only AI Tools.
 
 ## TypeScript 
