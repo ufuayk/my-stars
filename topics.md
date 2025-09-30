@@ -1046,7 +1046,7 @@
 - [ufuayk/ai-benchmark-saas](https://github.com/ufuayk/ai-benchmark-saas) - Results of mainstream AIs for a single coding prompt.
 - [ufuayk/ai-benchmark-weather](https://github.com/ufuayk/ai-benchmark-weather) - Results of mainstream AIs for a single coding prompt.
 - [davepl/Grok3-Breakout](https://github.com/davepl/Grok3-Breakout) - 
-- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 4.
+- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Open Source perplexity alternative.
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [waroi/TurkcellFrontend2025](https://github.com/waroi/TurkcellFrontend2025) - TurkcellFrontend2025
 - [ufuayk/readallcomics-pdf-tool](https://github.com/ufuayk/readallcomics-pdf-tool) - Please create an output folder and links.txt file in the same folder as main.py.
