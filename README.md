@@ -63,7 +63,6 @@
 
 ## CSS 
 
-- [ufuayk/StudyLog](https://github.com/ufuayk/StudyLog) - useful
 - [nwg-piotr/nwg-iso](https://github.com/nwg-piotr/nwg-iso) - Arch Linux ISO with nwg-shell for sway and Hyprland
 - [ufuayk/config](https://github.com/ufuayk/config) - my hypr config
 - [waroi/TurkcellFrontend2025](https://github.com/waroi/TurkcellFrontend2025) - TurkcellFrontend2025
@@ -97,13 +96,10 @@
 
 - [ralsina/grafito](https://github.com/ralsina/grafito) - A simple, nice journald web frontend
 - [ufuayk/ai-benchmark-portfolio](https://github.com/ufuayk/ai-benchmark-portfolio) - Results of mainstream AIs for a single coding prompt.
-- [ufuayk/Arat](https://github.com/ufuayk/Arat) - "hemen Arat" 🔎
-- [ufuayk/Questor](https://github.com/ufuayk/Questor) - Questor is an artificial intelligence research engine that tries to be friendly to everyone.
 - [ufuayk/ai-benchmark-saas](https://github.com/ufuayk/ai-benchmark-saas) - Results of mainstream AIs for a single coding prompt.
 - [ufuayk/ai-benchmark-weather](https://github.com/ufuayk/ai-benchmark-weather) - Results of mainstream AIs for a single coding prompt.
 - [davepl/Grok3-Breakout](https://github.com/davepl/Grok3-Breakout) - 
 - [chrstphrknwtn/grid-clock-screensaver](https://github.com/chrstphrknwtn/grid-clock-screensaver) - Grid clock macOS screensaver
-- [ufuayk/music-albums-cover-gallery](https://github.com/ufuayk/music-albums-cover-gallery) - Web application that allows users to share and discover album covers.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [ufuayk/hey-markdown](https://github.com/ufuayk/hey-markdown) - A powerful Markdown editor for modern creators.
 - [Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - This project is waiting for your contribution. If you have never contributed code on GitHub before, this is the project to get you started.
@@ -116,7 +112,7 @@
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [shreyash0x3/dotfiles-web](https://github.com/shreyash0x3/dotfiles-web) - site for exploring RICED systems and accessing dotfiles easily
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [ufuayk/hyprconf-gen](https://github.com/ufuayk/hyprconf-gen) - A Hyprland configuration editor. In your browser!
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
@@ -126,7 +122,6 @@
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [ufuayk/FOCUSPDF](https://github.com/ufuayk/FOCUSPDF) - Meet FOCUSPDF. Your next PDF viewer.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [ufuayk/naptrack](https://github.com/ufuayk/naptrack) - Elegant web application for tracking your sleep and nap patterns.
 - [ufuayk/uniter](https://github.com/ufuayk/uniter) - [TR] Bu uygulama, öğrencilerin YKS sıralamalarına göre yerleşebilecekleri bölümleri kolayca bulmalarını sağlar.
 - [ekinndev/yokatlas-universite](https://github.com/ekinndev/yokatlas-universite) - Yökatlas Üniversite Bölüm Listesi Bot
 - [ufuayk/smartboard-buddy](https://github.com/ufuayk/smartboard-buddy) - An interactive web application designed to assist teachers using smart boards in classrooms.
@@ -137,7 +132,6 @@
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [Vinayak-09/Vinayak-09.github.io](https://github.com/Vinayak-09/Vinayak-09.github.io) - Advance attractive personal portfolio website. It looks like chatting bot. Same design as Whatsapp chat. Lightweighted, Fast. Easy to use.
-- [ufuayk/UltraType](https://github.com/ufuayk/UltraType) - A typing speed test site with a fun and modern interface based on motivational quotes to test your keyboard typing speed.
 - [ufuayk/Genius-Start-Page](https://github.com/ufuayk/Genius-Start-Page) - Genius Start Page is a complex and customizable browser start page with a minimal design.
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
