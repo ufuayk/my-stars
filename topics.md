@@ -223,7 +223,7 @@
 - [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [shevabam/breaking-bad-quotes](https://github.com/shevabam/breaking-bad-quotes) - A simple API to retrieve some quotes of Breaking Bad, bitch!
-- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - 🚀 A hand-curated list of free, open, and developer-friendly APIs
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## archlinux 
@@ -523,7 +523,7 @@
 
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
+- [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 
 ## emoji 
 
@@ -828,7 +828,7 @@
 - [rocksdanister/weather](https://github.com/rocksdanister/weather) - Windows native weather app powered by DirectX12 animations
 - [beucismis/awesome-fetch](https://github.com/beucismis/awesome-fetch) - Command-line fetch tools for system/other information
 - [ufuayk/brofetch](https://github.com/ufuayk/brofetch) - A detailed and fun command-line system information tool.
-- [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
+- [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [taylanbildik/Linux_Dersleri](https://github.com/taylanbildik/Linux_Dersleri) - Kali Linux Üzerinden İşlenen Linux Komut Satırı Dersleri Dokümantasyon Kaynağı
 
@@ -853,7 +853,7 @@
 ## mac 
 
 - [mikigal/ryzen-hackintosh](https://github.com/mikigal/ryzen-hackintosh) - OpenCore EFI for AMD Ryzen Hackintosh
-- [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
+- [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 
 ## machine-learning 
 
@@ -918,7 +918,7 @@
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [scdl-org/scdl](https://github.com/scdl-org/scdl) - Soundcloud Music Downloader
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-- [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
+- [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
 
@@ -947,7 +947,7 @@
 
 ## node 
 
-- [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
+- [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 
 ## nodejs 
 
@@ -1442,7 +1442,7 @@
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [Droptop-Four/Droptop-Four](https://github.com/Droptop-Four/Droptop-Four) - Popular dropdown menu bar & app launcher for Windows & Rainmeter
 - [rocksdanister/weather](https://github.com/rocksdanister/weather) - Windows native weather app powered by DirectX12 animations
-- [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
+- [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 
 ## zig 
