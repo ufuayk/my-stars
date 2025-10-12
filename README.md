@@ -223,6 +223,7 @@
 
 ## Python 
 
+- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [run-llama/notebookllama](https://github.com/run-llama/notebookllama) - A fully open-source, LlamaCloud-backed alternative to NotebookLM
 - [revoxhere/duino-coin](https://github.com/revoxhere/duino-coin) - ᕲ Duino-Coin is a coin that can be mined with almost everything, including Arduino boards.
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
@@ -244,7 +245,7 @@
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [scdl-org/scdl](https://github.com/scdl-org/scdl) - Soundcloud Music Downloader
 - [nwg-piotr/azote](https://github.com/nwg-piotr/azote) - Wallpaper manager for wlroots-based compositors and some other WMs
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly reproducible Python. Deploy as scripts, pipelines, endpoints, and apps. All from
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [IndieSmiths/nodezator](https://github.com/IndieSmiths/nodezator) - A generalist Python node editor
 - [ufuayk/readallcomics-pdf-tool](https://github.com/ufuayk/readallcomics-pdf-tool) - Please create an output folder and links.txt file in the same folder as main.py.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
