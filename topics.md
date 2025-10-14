@@ -7,6 +7,7 @@
 
 - [3d](#3d)
 - [ai](#ai)
+- [ai-agents](#ai-agents)
 - [analytics](#analytics)
 - [android](#android)
 - [ansible](#ansible)
@@ -197,6 +198,11 @@
 - [EvanZhouDev/open-genmoji](https://github.com/EvanZhouDev/open-genmoji) - Generative Emoji for the rest of us.
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 
+## ai-agents 
+
+- [kortix-ai/suna](https://github.com/kortix-ai/suna) - Kortix – build, manage and train AI Agents. Fully Open Source.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
+
 ## analytics 
 
 - [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
@@ -234,7 +240,7 @@
 
 ## arduino 
 
-- [revoxhere/duino-coin](https://github.com/revoxhere/duino-coin) - ᕲ Duino-Coin is a coin that can be mined with almost everything, including Arduino boards.
+- [duino-coin/duino-coin](https://github.com/duino-coin/duino-coin) - ᕲ Duino-Coin is a coin that can be mined with almost everything, including Arduino boards.
 
 ## artificial-intelligence 
 
@@ -399,7 +405,7 @@
 
 ## cryptocurrency 
 
-- [revoxhere/duino-coin](https://github.com/revoxhere/duino-coin) - ᕲ Duino-Coin is a coin that can be mined with almost everything, including Arduino boards.
+- [duino-coin/duino-coin](https://github.com/duino-coin/duino-coin) - ᕲ Duino-Coin is a coin that can be mined with almost everything, including Arduino boards.
 
 ## cryptography 
 
@@ -464,7 +470,7 @@
 
 ## developer-tools 
 
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
 - [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) - HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac  :tada:  Open an issue here to give feedback or ask for help.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [voideditor/void](https://github.com/voideditor/void) - 
@@ -682,7 +688,7 @@
 
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
-- [revoxhere/duino-coin](https://github.com/revoxhere/duino-coin) - ᕲ Duino-Coin is a coin that can be mined with almost everything, including Arduino boards.
+- [duino-coin/duino-coin](https://github.com/duino-coin/duino-coin) - ᕲ Duino-Coin is a coin that can be mined with almost everything, including Arduino boards.
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
 - [rochacbruno/marmite](https://github.com/rochacbruno/marmite) - Markdown makes sites - A Static Site Generator for Blogs
@@ -843,7 +849,7 @@
 
 ## low-code 
 
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
@@ -942,7 +948,7 @@
 
 ## no-code 
 
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
@@ -997,7 +1003,6 @@
 
 ## others 
 
-- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [svenstaro/rofi-calc](https://github.com/svenstaro/rofi-calc) - 🖩 Do live calculations in rofi!
 - [run-llama/notebookllama](https://github.com/run-llama/notebookllama) - A fully open-source, LlamaCloud-backed alternative to NotebookLM
 - [the-ora/browser](https://github.com/the-ora/browser) - Less noise, more browsing.
@@ -1102,6 +1107,7 @@
 
 ## privacy 
 
+- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [ethereal-developers/OpenScan](https://github.com/ethereal-developers/OpenScan) - Document Scanner that protects your privacy
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
@@ -1127,7 +1133,7 @@
 
 ## project-management 
 
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
 
 ## pwa 
 
@@ -1164,7 +1170,7 @@
 
 ## python3 
 
-- [revoxhere/duino-coin](https://github.com/revoxhere/duino-coin) - ᕲ Duino-Coin is a coin that can be mined with almost everything, including Arduino boards.
+- [duino-coin/duino-coin](https://github.com/duino-coin/duino-coin) - ᕲ Duino-Coin is a coin that can be mined with almost everything, including Arduino boards.
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
 - [AnonymouX47/term-image](https://github.com/AnonymouX47/term-image) - Display images in the terminal with python
 - [IndieSmiths/nodezator](https://github.com/IndieSmiths/nodezator) - A generalist Python node editor
@@ -1256,7 +1262,7 @@
 
 - [andrii-kryvoviaz/slink](https://github.com/andrii-kryvoviaz/slink) - Self-hosted image sharing service
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
