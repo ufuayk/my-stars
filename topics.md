@@ -889,6 +889,7 @@
 
 ## markdown 
 
+- [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [rochacbruno/marmite](https://github.com/rochacbruno/marmite) - Markdown makes sites - A Static Site Generator for Blogs
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to papers, presentations and books.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
@@ -937,6 +938,7 @@
 
 ## nextjs 
 
+- [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [computebaker/tekir](https://github.com/computebaker/tekir) - Public source code for the Tekir, the capable search engine.
@@ -985,6 +987,7 @@
 
 ## openai 
 
+- [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
@@ -1186,6 +1189,7 @@
 
 ## react 
 
+- [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
@@ -1261,6 +1265,7 @@
 
 ## self-hosted 
 
+- [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [arabcoders/ytptube](https://github.com/arabcoders/ytptube) - A WebUI for yt-dlp with concurrent downloads support, presets and scheduled tasks and many more.
 - [andrii-kryvoviaz/slink](https://github.com/andrii-kryvoviaz/slink) - Self-hosted image sharing service
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
