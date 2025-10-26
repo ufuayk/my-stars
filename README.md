@@ -179,7 +179,7 @@
 ## Others 
 
 - [romainmarcoux/malicious-hash](https://github.com/romainmarcoux/malicious-hash) - Aggregation of lists of malicious hashes of malware that can be integrated into FortiGate firewalls and other products.
-- [mbrell/c0admin-system-instructions](https://github.com/mbrell/c0admin-system-instructions) - A system instructions repo for c0admin.
+- [Mbrell/c0admin-system-instructions](https://github.com/Mbrell/c0admin-system-instructions) - A system instructions repo for c0admin.
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [sursly/sono](https://github.com/sursly/sono) - A soft monospace variable font
@@ -225,6 +225,7 @@
 
 ## Python 
 
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [arabcoders/ytptube](https://github.com/arabcoders/ytptube) - A WebUI for yt-dlp with concurrent downloads support, presets and scheduled tasks and many more.
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [run-llama/notebookllama](https://github.com/run-llama/notebookllama) - A fully open-source, LlamaCloud-backed alternative to NotebookLM
@@ -234,12 +235,12 @@
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-- [mbrell/c0admin](https://github.com/mbrell/c0admin) - A terminal-based AI assistant for Linux sysadmins.
-- [mbrell/dns-lookup](https://github.com/mbrell/dns-lookup) - DNS Lookup tool.
+- [Mbrell/c0admin](https://github.com/Mbrell/c0admin) - A terminal-based AI assistant for Linux sysadmins.
+- [Mbrell/dns-lookup](https://github.com/Mbrell/dns-lookup) - DNS Lookup tool.
 - [AnonymouX47/term-image](https://github.com/AnonymouX47/term-image) - Display images in the terminal with python
 - [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - A cross-platform QUIC AI-boost fluent-design multi-threaded downloader built with Python.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
-- [mbrell/system-profiler](https://github.com/mbrell/system-profiler) - Easy to use system profiler tool.
+- [Mbrell/system-profiler](https://github.com/Mbrell/system-profiler) - Easy to use system profiler tool.
 - [nwg-piotr/nwg-displays](https://github.com/nwg-piotr/nwg-displays) - Output management utility for sway and Hyprland.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [RareDevs/Rare](https://github.com/RareDevs/Rare) - Rare is an open source alternative for Epic Games Launcher, using Legendary.
@@ -291,7 +292,7 @@
 - [irevenko/ferris-fetch](https://github.com/irevenko/ferris-fetch) - 🎨🦀 A system information tool for Rustaceans
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
-- [mbrell/webscraping](https://github.com/mbrell/webscraping) - Web scraping script.
+- [Mbrell/webscraping](https://github.com/Mbrell/webscraping) - Web scraping script.
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
@@ -310,6 +311,7 @@
 
 ## Shell 
 
+- [IceWhaleTech/ZimaOS](https://github.com/IceWhaleTech/ZimaOS) - A Simplified, Focused and Open NAS OS_
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [dazeb/proxmox-dietpi-installer](https://github.com/dazeb/proxmox-dietpi-installer) - A Proxmox Helper Script to install DietPi in Proxmox
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
