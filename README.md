@@ -283,7 +283,7 @@
 - [rochacbruno/marmite](https://github.com/rochacbruno/marmite) - Markdown makes sites - A Static Site Generator for Blogs
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-- [oiwn/tarts](https://github.com/oiwn/tarts) - Screen saves and visual effects for your terminal!
+- [oiwn/tarts](https://github.com/oiwn/tarts) - Screen savers and visual effects for your terminal!
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [ekimb/pas](https://github.com/ekimb/pas) - Rust syntax in Turkish
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
