@@ -1227,7 +1227,7 @@
 - [rochacbruno/marmite](https://github.com/rochacbruno/marmite) - Markdown makes sites - A Static Site Generator for Blogs
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-- [oiwn/tarts](https://github.com/oiwn/tarts) - Screen saves and visual effects for your terminal!
+- [oiwn/tarts](https://github.com/oiwn/tarts) - Screen savers and visual effects for your terminal!
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
@@ -1406,7 +1406,7 @@
 
 ## visualization 
 
-- [oiwn/tarts](https://github.com/oiwn/tarts) - Screen saves and visual effects for your terminal!
+- [oiwn/tarts](https://github.com/oiwn/tarts) - Screen savers and visual effects for your terminal!
 - [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 
 ## vue 
