@@ -497,6 +497,7 @@
 
 ## docker 
 
+- [RUBIYC/scripts](https://github.com/RUBIYC/scripts) - The cornerstones of RUBIYC's technology.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 - [Mbrell/c0admin](https://github.com/Mbrell/c0admin) - A terminal-based AI assistant for Linux sysadmins.
@@ -955,6 +956,7 @@
 
 ## nim 
 
+- [RUBIYC/scripts](https://github.com/RUBIYC/scripts) - The cornerstones of RUBIYC's technology.
 - [codic12/worm](https://github.com/codic12/worm) - A dynamic, tag-based window manager written in Nim
 - [yglukhov/nimx](https://github.com/yglukhov/nimx) - GUI library
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
@@ -1285,6 +1287,7 @@
 
 ## self-hosted 
 
+- [RUBIYC/scripts](https://github.com/RUBIYC/scripts) - The cornerstones of RUBIYC's technology.
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [arabcoders/ytptube](https://github.com/arabcoders/ytptube) - A WebUI for yt-dlp with concurrent downloads support, presets and scheduled tasks and many more.
