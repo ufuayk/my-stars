@@ -1026,6 +1026,7 @@
 
 ## others 
 
+- [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [svenstaro/rofi-calc](https://github.com/svenstaro/rofi-calc) - 🖩 Do live calculations in rofi!
@@ -1040,7 +1041,7 @@
 - [kamaaina/macropad_tool](https://github.com/kamaaina/macropad_tool) - tool to program a macropad
 - [Mbrell/c0admin-system-instructions](https://github.com/Mbrell/c0admin-system-instructions) - A system instructions repo for c0admin.
 - [mattrltrent/github_painter](https://github.com/mattrltrent/github_painter) - 🎨 Create a custom design for your GitHub Commit Contribution Graph. 1st on Google. Try it!
-- [shreyash0x3/dotfiles-web](https://github.com/shreyash0x3/dotfiles-web) - site for exploring RICED systems and accessing dotfiles easily
+- [shreyashkakad/dotfiles-web](https://github.com/shreyashkakad/dotfiles-web) - a platform for showcasing custom linux configuration and their dotfiles.
 - [klembot/twinejs](https://github.com/klembot/twinejs) - Twine, a tool for telling interactive, nonlinear stories
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
