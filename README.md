@@ -284,6 +284,7 @@
 
 ## Rust 
 
+- [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB Book Reader
 - [marhkb/pods](https://github.com/marhkb/pods) - Keep track of your podman containers
 - [kamaaina/macropad_tool](https://github.com/kamaaina/macropad_tool) - tool to program a macropad
 - [oleiade/motus](https://github.com/oleiade/motus) - A dead simple password generator
