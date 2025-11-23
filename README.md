@@ -177,7 +177,6 @@
 ## Nim 
 
 - [RUBIYC/scripts](https://github.com/RUBIYC/scripts) - The cornerstones of RUBIYC's technology.
-- [codic12/worm](https://github.com/codic12/worm) - A dynamic, tag-based window manager written in Nim
 - [yglukhov/nimx](https://github.com/yglukhov/nimx) - GUI library
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
