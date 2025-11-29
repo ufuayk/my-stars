@@ -113,6 +113,7 @@
 
 ## JavaScript 
 
+- [mult1v4c/hestia-core](https://github.com/mult1v4c/hestia-core) - 
 - [KilimcininKorOglu/btk-sorgu](https://github.com/KilimcininKorOglu/btk-sorgu) - 
 - [jeroenpardon/sui](https://github.com/jeroenpardon/sui) - a startpage for your server and / or new tab page
 - [mattrltrent/github_painter](https://github.com/mattrltrent/github_painter) - 🎨 Create a custom design for your GitHub Commit Contribution Graph. 1st on Google. Try it!
