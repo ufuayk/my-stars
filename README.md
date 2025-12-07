@@ -91,6 +91,7 @@
 
 ## Go 
 
+- [KilimcininKorOglu/btk-sorgu](https://github.com/KilimcininKorOglu/btk-sorgu) - 
 - [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
@@ -119,7 +120,6 @@
 ## JavaScript 
 
 - [mult1v4c/hestia-core](https://github.com/mult1v4c/hestia-core) - A grid-based, modular dashboard built entirely from HTML, CSS, and JS with the ability to create your custom API integrations.
-- [KilimcininKorOglu/btk-sorgu](https://github.com/KilimcininKorOglu/btk-sorgu) - 
 - [jeroenpardon/sui](https://github.com/jeroenpardon/sui) - a startpage for your server and / or new tab page
 - [mattrltrent/github_painter](https://github.com/mattrltrent/github_painter) - 🎨 Create a custom design for your GitHub Commit Contribution Graph. 1st on Google. Try it!
 - [shreyashkakad/dotfiles-web](https://github.com/shreyashkakad/dotfiles-web) - a platform for showcasing custom linux configuration and their dotfiles.
@@ -270,7 +270,7 @@
 - [Assassin654/AutoClicker](https://github.com/Assassin654/AutoClicker) - Paul's AutoClicker: A fast auto clicker and macro tool made for windows with many features
 - [EvanZhouDev/open-genmoji](https://github.com/EvanZhouDev/open-genmoji) - Generative Emoji for the rest of us.
 - [kevsersrca/2016LYKAgGuvenligiveSizmaTestleri](https://github.com/kevsersrca/2016LYKAgGuvenligiveSizmaTestleri) - Network Security Notes :umbrella:
-- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [lzhoang2801/OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) - A tool designed to simplify the creation of OpenCore EFI
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [martinvigo/email2phonenumber](https://github.com/martinvigo/email2phonenumber) - A OSINT tool to obtain a target's phone number just by having his email address
