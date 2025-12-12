@@ -141,7 +141,6 @@
 - [alicangunduz/30-Days-Of-JavaScript-Turkce](https://github.com/alicangunduz/30-Days-Of-JavaScript-Turkce) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
 - [DistributionHub/distributionhub.github.io](https://github.com/DistributionHub/distributionhub.github.io) - A handy website that allows you to download all Linux/BSD distributions in one place with one click.
 - [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes) - Mechvibes
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [Vinayak-09/Vinayak-09.github.io](https://github.com/Vinayak-09/Vinayak-09.github.io) - Advance attractive personal portfolio website. It looks like chatting bot. Same design as Whatsapp chat. Lightweighted, Fast. Easy to use.
 - [ufuayk/Genius-Start-Page](https://github.com/ufuayk/Genius-Start-Page) - Genius Start Page is a complex and customizable browser start page with a minimal design.
@@ -396,6 +395,7 @@
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, Svelte, and TS/JS.
 - [souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md) - Convert Notion pages, blocks, or entire lists into any format: Markdown, MDX, JSX, HTML, LaTeX, and more. A powerful Notion conversion engine that lets you write once in Notion and publish seamlessly 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [MikhaD/wordle](https://github.com/MikhaD/wordle) - A recreation of the popular game Wordle with additional modes and features. Made with Svelte in Typescript.
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [allister-grange/startertab](https://github.com/allister-grange/startertab) - A custom new tab page, keeping all the best info handy (a work in progress, feedback is invaluable)
