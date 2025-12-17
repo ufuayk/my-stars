@@ -203,6 +203,7 @@
 
 ## ai 
 
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - Kortix – build, manage and train AI Agents.
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
@@ -214,6 +215,7 @@
 
 ## ai-agents 
 
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - Kortix – build, manage and train AI Agents.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 
@@ -365,6 +367,7 @@
 
 - [oleiade/motus](https://github.com/oleiade/motus) - A dead simple password generator
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [AnonymouX47/term-image](https://github.com/AnonymouX47/term-image) - Display images in the terminal with python
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
@@ -409,7 +412,7 @@
 ## compiler 
 
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
-- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to papers, presentations and books.
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 
@@ -951,7 +954,7 @@
 
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [rochacbruno/marmite](https://github.com/rochacbruno/marmite) - Markdown makes sites - A Static Site Generator for Blogs
-- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to papers, presentations and books.
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [ufuayk/hey-markdown](https://github.com/ufuayk/hey-markdown) - A powerful Markdown editor for modern creators.
@@ -1098,7 +1101,6 @@
 - [mattrltrent/github_painter](https://github.com/mattrltrent/github_painter) - 🎨 Create a custom design for your GitHub Commit Contribution Graph. 1st on Google. Try it!
 - [shreyashkakad/dotfiles-web](https://github.com/shreyashkakad/dotfiles-web) - a platform for showcasing custom linux configuration and their dotfiles.
 - [klembot/twinejs](https://github.com/klembot/twinejs) - Twine, a tool for telling interactive, nonlinear stories
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [ralsina/grafito](https://github.com/ralsina/grafito) - A simple, nice journald web frontend
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
