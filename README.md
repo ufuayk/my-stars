@@ -11,7 +11,6 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Dart](#dart)
-- [Fluent](#fluent)
 - [GDScript](#gdscript)
 - [Go](#go)
 - [HTML](#html)
@@ -86,10 +85,6 @@
 - [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 
-## Fluent 
-
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
-
 ## GDScript 
 
 - [git-learning-game/oh-my-git](https://github.com/git-learning-game/oh-my-git) - An interactive Git learning game!
@@ -148,6 +143,7 @@
 - [DistributionHub/distributionhub.github.io](https://github.com/DistributionHub/distributionhub.github.io) - A handy website that allows you to download all Linux/BSD distributions in one place with one click.
 - [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes) - Mechvibes
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [Vinayak-09/Vinayak-09.github.io](https://github.com/Vinayak-09/Vinayak-09.github.io) - Advance attractive personal portfolio website. It looks like chatting bot. Same design as Whatsapp chat. Lightweighted, Fast. Easy to use.
 - [ufuayk/Genius-Start-Page](https://github.com/ufuayk/Genius-Start-Page) - Genius Start Page is a complex and customizable browser start page with a minimal design.
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
