@@ -91,6 +91,7 @@
 
 ## Go 
 
+- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 - [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - Terminal UI OS (Terminal Multiplexer)
 - [sedwards2009/dinky](https://github.com/sedwards2009/dinky) - A small but friendly, terminal based text editor
 - [KilimcininKorOglu/btk-sorgu](https://github.com/KilimcininKorOglu/btk-sorgu) - Türkiye'de erişime engellenen web sitelerini BTK Site Bilgileri Sorgu Sayfası üzerinden otomatik olarak sorgulayan Go aracı.
