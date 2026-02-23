@@ -93,7 +93,6 @@
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 - [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - Terminal UI OS (Terminal Multiplexer)
 - [sedwards2009/dinky](https://github.com/sedwards2009/dinky) - A small but friendly, terminal based text editor
-- [KilimcininKorOglu/btk-sorgu](https://github.com/KilimcininKorOglu/btk-sorgu) - Türkiye'de erişime engellenen web sitelerini BTK Site Bilgileri Sorgu Sayfası üzerinden otomatik olarak sorgulayan Go aracı.
 - [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
@@ -143,7 +142,7 @@
 - [ufuayk/smartboard-buddy](https://github.com/ufuayk/smartboard-buddy) - An interactive web application designed to assist teachers using smart boards in classrooms.
 - [shevabam/breaking-bad-quotes](https://github.com/shevabam/breaking-bad-quotes) - A simple API to retrieve some quotes of Breaking Bad, bitch!
 - [alicangunduz/30-Days-Of-JavaScript-Turkce](https://github.com/alicangunduz/30-Days-Of-JavaScript-Turkce) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
-- [DistributionHub/distributionhub.github.io](https://github.com/DistributionHub/distributionhub.github.io) - A handy website that allows you to download all Linux/BSD distributions in one place with one click.
+- [ufuayk/distributionhub](https://github.com/ufuayk/distributionhub) - A handy website that allows you to download all Linux/BSD distributions in one place with one click.
 - [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes) - Mechvibes
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
@@ -182,7 +181,7 @@
 
 ## Nim 
 
-- [RUBIYC/scripts](https://github.com/RUBIYC/scripts) - The cornerstones of RUBIYC's technology.
+- [ufuayk/nim-scripts](https://github.com/ufuayk/nim-scripts) - nim-script
 - [yglukhov/nimx](https://github.com/yglukhov/nimx) - GUI library
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
@@ -205,7 +204,6 @@
 - [avtzis/awesome-linux-ricing](https://github.com/avtzis/awesome-linux-ricing) - 🎨 Curated list of awesome themes, tools and apps for customizing the Linux environment.
 - [lazylinuxos/lazy-wallpapers](https://github.com/lazylinuxos/lazy-wallpapers) - Wallpapers for LazyLinux
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
-- [DistributionHub/handbook](https://github.com/DistributionHub/handbook) - Linux beginner's handbook from DistroHub. Detailed and instructive.
 - [vncntx/cold-horizon](https://github.com/vncntx/cold-horizon) - A theme for Visual Studio Code
 - [tayfunerbilen/react-bootcamp-notlari](https://github.com/tayfunerbilen/react-bootcamp-notlari) - React'e yeni başlayanlar için bootcamp notları
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
