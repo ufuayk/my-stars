@@ -15,6 +15,7 @@
 - [Go](#go)
 - [HTML](#html)
 - [JavaScript](#javascript)
+- [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Just](#just)
 - [Kotlin](#kotlin)
@@ -150,6 +151,10 @@
 - [ufuayk/Genius-Start-Page](https://github.com/ufuayk/Genius-Start-Page) - Genius Start Page is a complex and customizable browser start page with a minimal design.
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+
+## Jinja 
+
+- [Lenochxd/WebDeck](https://github.com/Lenochxd/WebDeck) - The free stream deck alternative
 
 ## Jupyter Notebook 
 
@@ -362,6 +367,7 @@
 
 ## Swift 
 
+- [f/textream](https://github.com/f/textream) - Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. With extens
 - [the-ora/browser](https://github.com/the-ora/browser) - Less noise, more browsing.
 - [f/Clues.app](https://github.com/f/Clues.app) - This app is built using only AI Tools.
 
