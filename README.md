@@ -254,11 +254,11 @@
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Mbrell/c0admin](https://github.com/Mbrell/c0admin) - A terminal-based AI assistant for Linux sysadmins.
-- [Mbrell/dns-lookup](https://github.com/Mbrell/dns-lookup) - DNS Lookup tool.
+- [ufuayk/dns-lookup](https://github.com/ufuayk/dns-lookup) - DNS Lookup tool.
 - [AnonymouX47/term-image](https://github.com/AnonymouX47/term-image) - Display images in the terminal with python
 - [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - A cross-platform QUIC AI-boost fluent-design multi-threaded downloader built with Python.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
-- [Mbrell/system-profiler](https://github.com/Mbrell/system-profiler) - Easy to use system profiler tool.
+- [ufuayk/system-profiler](https://github.com/ufuayk/system-profiler) - Easy to use system profiler tool.
 - [nwg-piotr/nwg-displays](https://github.com/nwg-piotr/nwg-displays) - Output management utility for sway and Hyprland.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [RareDevs/Rare](https://github.com/RareDevs/Rare) - Rare is an open source alternative for Epic Games Launcher, using Legendary.
@@ -313,7 +313,7 @@
 - [irevenko/ferris-fetch](https://github.com/irevenko/ferris-fetch) - 🎨🦀 A system information tool for Rustaceans
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
-- [Mbrell/webscraping](https://github.com/Mbrell/webscraping) - Web scraping script.
+- [ufuayk/webscraping](https://github.com/ufuayk/webscraping) - Web scraping script.
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
