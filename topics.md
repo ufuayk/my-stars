@@ -101,6 +101,7 @@
 - [javascript](#javascript)
 - [jekyll](#jekyll)
 - [jekyll-theme](#jekyll-theme)
+- [jquery](#jquery)
 - [js](#js)
 - [json](#json)
 - [julia](#julia)
@@ -340,7 +341,7 @@
 
 ## bash 
 
-- [Mbrell/c0admin](https://github.com/Mbrell/c0admin) - A terminal-based AI assistant for Linux sysadmins.
+- [ufuayk/c0admin](https://github.com/ufuayk/c0admin) - A terminal-based AI assistant for Linux sysadmins.
 - [oSoWoSo/DistroHopper](https://github.com/oSoWoSo/DistroHopper) - Quickly download, create and run VM of any#TODO operating system.
 - [pipeseroni/pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver
 
@@ -455,6 +456,7 @@
 
 - [ufuayk/FocusGit](https://github.com/ufuayk/FocusGit) - Browser add-on that provides a clean and minimal GitHub interface.
 - [ufuayk/FOCUSPDF](https://github.com/ufuayk/FOCUSPDF) - Meet FOCUSPDF. Your next PDF viewer.
+- [ufuayk/My-Dream-Factory](https://github.com/ufuayk/My-Dream-Factory) - Welcome to My Dream Factory, a simulation game where you manage a manufacturing business and optimize operations.
 - [ufuayk/hey-markdown](https://github.com/ufuayk/hey-markdown) - A powerful Markdown editor for modern creators.
 - [Vinayak-09/Vinayak-09.github.io](https://github.com/Vinayak-09/Vinayak-09.github.io) - Advance attractive personal portfolio website. It looks like chatting bot. Same design as Whatsapp chat. Lightweighted, Fast. Easy to use.
 - [ufuayk/Landing-Page](https://github.com/ufuayk/Landing-Page) - An example of a simple one-page portfolio site with tiny animations developed using HTML and CSS.
@@ -526,7 +528,7 @@
 ## devops 
 
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [Mbrell/c0admin](https://github.com/Mbrell/c0admin) - A terminal-based AI assistant for Linux sysadmins.
+- [ufuayk/c0admin](https://github.com/ufuayk/c0admin) - A terminal-based AI assistant for Linux sysadmins.
 - [devsecops/awesome-devsecops](https://github.com/devsecops/awesome-devsecops) - An authoritative list of awesome devsecops tools with the help from community experiments and contributions.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
@@ -541,7 +543,7 @@
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
-- [Mbrell/c0admin](https://github.com/Mbrell/c0admin) - A terminal-based AI assistant for Linux sysadmins.
+- [ufuayk/c0admin](https://github.com/ufuayk/c0admin) - A terminal-based AI assistant for Linux sysadmins.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
@@ -639,6 +641,7 @@
 - [git-learning-game/oh-my-git](https://github.com/git-learning-game/oh-my-git) - An interactive Git learning game!
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
+- [ufuayk/My-Dream-Factory](https://github.com/ufuayk/My-Dream-Factory) - Welcome to My Dream Factory, a simulation game where you manage a manufacturing business and optimize operations.
 - [The-Powder-Toy/The-Powder-Toy](https://github.com/The-Powder-Toy/The-Powder-Toy) - Written in C++ and using SDL, The Powder Toy is a desktop version of the classic 'falling sand' physics sandbox, it simulates air pressure and velocity as well as heat.
 - [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
 - [ufuayk/Heads-or-Tails](https://github.com/ufuayk/Heads-or-Tails) - Heads-or-Tails makes flipping a coin easy! And it's fun.
@@ -648,6 +651,7 @@
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
+- [ufuayk/My-Dream-Factory](https://github.com/ufuayk/My-Dream-Factory) - Welcome to My Dream Factory, a simulation game where you manage a manufacturing business and optimize operations.
 
 ## game-engine 
 
@@ -659,6 +663,7 @@
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
+- [ufuayk/My-Dream-Factory](https://github.com/ufuayk/My-Dream-Factory) - Welcome to My Dream Factory, a simulation game where you manage a manufacturing business and optimize operations.
 
 ## gamemaker 
 
@@ -780,6 +785,7 @@
 ## html 
 
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
+- [ufuayk/My-Dream-Factory](https://github.com/ufuayk/My-Dream-Factory) - Welcome to My Dream Factory, a simulation game where you manage a manufacturing business and optimize operations.
 - [ufuayk/hey-markdown](https://github.com/ufuayk/hey-markdown) - A powerful Markdown editor for modern creators.
 - [Vinayak-09/Vinayak-09.github.io](https://github.com/Vinayak-09/Vinayak-09.github.io) - Advance attractive personal portfolio website. It looks like chatting bot. Same design as Whatsapp chat. Lightweighted, Fast. Easy to use.
 - [ufuayk/Genius-Start-Page](https://github.com/ufuayk/Genius-Start-Page) - Genius Start Page is a complex and customizable browser start page with a minimal design.
@@ -844,9 +850,14 @@
 
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 
+## jquery 
+
+- [ufuayk/My-Dream-Factory](https://github.com/ufuayk/My-Dream-Factory) - Welcome to My Dream Factory, a simulation game where you manage a manufacturing business and optimize operations.
+
 ## js 
 
 - [Stigmatoz/web-activity-time-tracker](https://github.com/Stigmatoz/web-activity-time-tracker) - Chrome Extension that tracks and limits time you spent on sites
+- [ufuayk/My-Dream-Factory](https://github.com/ufuayk/My-Dream-Factory) - Welcome to My Dream Factory, a simulation game where you manage a manufacturing business and optimize operations.
 - [ufuayk/hey-markdown](https://github.com/ufuayk/hey-markdown) - A powerful Markdown editor for modern creators.
 
 ## json 
@@ -897,7 +908,7 @@
 - [marhkb/pods](https://github.com/marhkb/pods) - Keep track of your podman containers
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
-- [Mbrell/c0admin](https://github.com/Mbrell/c0admin) - A terminal-based AI assistant for Linux sysadmins.
+- [ufuayk/c0admin](https://github.com/ufuayk/c0admin) - A terminal-based AI assistant for Linux sysadmins.
 - [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W OS - Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install from a Live ISO or with the Dotfiles Installer app wi
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [RareDevs/Rare](https://github.com/RareDevs/Rare) - Rare is an open source alternative for Epic Games Launcher, using Legendary.
@@ -959,7 +970,7 @@
 - [f/textream](https://github.com/f/textream) - Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. With extens
 - [playwora/wora](https://github.com/playwora/wora) - 🎧 A beautiful player for audiophiles.
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
-- [Mbrell/c0admin](https://github.com/Mbrell/c0admin) - A terminal-based AI assistant for Linux sysadmins.
+- [ufuayk/c0admin](https://github.com/ufuayk/c0admin) - A terminal-based AI assistant for Linux sysadmins.
 - [oSoWoSo/quickemu](https://github.com/oSoWoSo/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines. Checkout also DistroHopper:
 - [ismail-yilmaz/Bobcat](https://github.com/ismail-yilmaz/Bobcat) - A powerful yet user-friendly cross-platform terminal emulator.
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency.
@@ -1134,7 +1145,7 @@
 - [jeroenpardon/sui](https://github.com/jeroenpardon/sui) - a startpage for your server and / or new tab page
 - [gayret/ataturk](https://github.com/gayret/ataturk) - Ulu Önder Mustafa Kemal Atatürk'ün hayatını görsel ve işitsel kaynaklarla anlatan web uygulama.
 - [kamaaina/macropad_tool](https://github.com/kamaaina/macropad_tool) - tool to program a macropad
-- [Mbrell/c0admin-system-instructions](https://github.com/Mbrell/c0admin-system-instructions) - A system instructions repo for c0admin.
+- [ufuayk/c0admin-system-instructions](https://github.com/ufuayk/c0admin-system-instructions) - A system instructions repo for c0admin.
 - [mattrltrent/github_painter](https://github.com/mattrltrent/github_painter) - 🎨 Create a custom design for your GitHub Commit Contribution Graph. 1st on Google. Try it!
 - [shreyashkakad/dotfiles-web](https://github.com/shreyashkakad/dotfiles-web) - a platform for showcasing custom linux configuration and their dotfiles.
 - [klembot/twinejs](https://github.com/klembot/twinejs) - Twine, a tool for telling interactive, nonlinear stories
@@ -1286,7 +1297,7 @@
 - [saidsurucu/yokatlas-py](https://github.com/saidsurucu/yokatlas-py) - A Python wrapper for YOK Atlas API.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-- [Mbrell/c0admin](https://github.com/Mbrell/c0admin) - A terminal-based AI assistant for Linux sysadmins.
+- [ufuayk/c0admin](https://github.com/ufuayk/c0admin) - A terminal-based AI assistant for Linux sysadmins.
 - [ufuayk/dns-lookup](https://github.com/ufuayk/dns-lookup) - DNS Lookup tool.
 - [AnonymouX47/term-image](https://github.com/AnonymouX47/term-image) - Display images in the terminal with python
 - [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - A cross-platform QUIC AI-boost fluent-design multi-threaded downloader built with Python.
@@ -1442,7 +1453,7 @@
 ## shell 
 
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-- [Mbrell/c0admin](https://github.com/Mbrell/c0admin) - A terminal-based AI assistant for Linux sysadmins.
+- [ufuayk/c0admin](https://github.com/ufuayk/c0admin) - A terminal-based AI assistant for Linux sysadmins.
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [ufuayk/brofetch](https://github.com/ufuayk/brofetch) - A detailed and fun command-line system information tool.
