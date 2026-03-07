@@ -375,6 +375,7 @@
 
 ## TypeScript 
 
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [playwora/wora](https://github.com/playwora/wora) - 🎧 A beautiful player for audiophiles.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
