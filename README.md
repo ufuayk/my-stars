@@ -302,6 +302,7 @@
 
 ## Rust 
 
+- [ishrut/raclettui](https://github.com/ishrut/raclettui) - Build terminal-themed wayland layer shell applications with Rust.
 - [jordond/jolt](https://github.com/jordond/jolt) - ⚡️A terminal-based battery and energy monitor for macOS and Linux.
 - [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader
 - [marhkb/pods](https://github.com/marhkb/pods) - Keep track of your podman containers
