@@ -139,7 +139,7 @@
 - [ufuayk/hyprconf-gen](https://github.com/ufuayk/hyprconf-gen) - A Hyprland configuration editor. In your browser!
 - [JuliaPluto/Pluto.jl](https://github.com/JuliaPluto/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configration.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [f/fig4ai](https://github.com/f/fig4ai) - 
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [ufuayk/FOCUSPDF](https://github.com/ufuayk/FOCUSPDF) - Meet FOCUSPDF. Your next PDF viewer.
