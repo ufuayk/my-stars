@@ -70,6 +70,7 @@
 
 ## CSS 
 
+- [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [nwg-piotr/nwg-iso](https://github.com/nwg-piotr/nwg-iso) - Arch Linux ISO with nwg-shell for sway and Hyprland
 - [ufuayk/config](https://github.com/ufuayk/config) - my hypr config
 - [waroi/TurkcellFrontend2025](https://github.com/waroi/TurkcellFrontend2025) - TurkcellFrontend2025
