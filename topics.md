@@ -64,6 +64,7 @@
 - [emoji](#emoji)
 - [emulator](#emulator)
 - [english](#english)
+- [esp32](#esp32)
 - [express](#express)
 - [finance](#finance)
 - [firefox](#firefox)
@@ -597,6 +598,11 @@
 
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [yvoronoy/awesome-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English.
+
+## esp32 
+
+- [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
+- [octolance/n2d](https://github.com/octolance/n2d) - An easy to use ESP8266 flash tool with built-in support for the Deauther Project.
 
 ## express 
 
