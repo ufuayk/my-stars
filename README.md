@@ -76,7 +76,6 @@
 - [ufuayk/config](https://github.com/ufuayk/config) - my hypr config
 - [waroi/TurkcellFrontend2025](https://github.com/waroi/TurkcellFrontend2025) - TurkcellFrontend2025
 - [ufuayk/FocusGit](https://github.com/ufuayk/FocusGit) - Browser add-on that provides a clean and minimal GitHub interface.
-- [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [MichaelBarney/LinkFree](https://github.com/MichaelBarney/LinkFree) - A free and open source alternative to LinkTree
 - [ufuayk/Landing-Page](https://github.com/ufuayk/Landing-Page) - An example of a simple one-page portfolio site with tiny animations developed using HTML and CSS.
 - [johnggli/linktree](https://github.com/johnggli/linktree) - Simple site to group all my profiles on social networks in one place. A free Linktree alternative.
@@ -150,6 +149,7 @@
 - [ufuayk/smartboard-buddy](https://github.com/ufuayk/smartboard-buddy) - An interactive web application designed to assist teachers using smart boards in classrooms.
 - [ufuayk/My-Dream-Factory](https://github.com/ufuayk/My-Dream-Factory) - Welcome to My Dream Factory, a simulation game where you manage a manufacturing business and optimize operations.
 - [shevabam/breaking-bad-quotes](https://github.com/shevabam/breaking-bad-quotes) - A simple API to retrieve some quotes of Breaking Bad, bitch!
+- [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [alicangunduz/30-Days-Of-JavaScript-Turkce](https://github.com/alicangunduz/30-Days-Of-JavaScript-Turkce) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
 - [ufuayk/distributionhub](https://github.com/ufuayk/distributionhub) - A handy website that allows you to download all Linux/BSD distributions in one place with one click.
 - [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes) - Mechvibes
