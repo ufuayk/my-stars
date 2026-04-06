@@ -242,6 +242,8 @@
 
 ## android 
 
+- [zarzet/SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
+- [shiahonb777/web-to-app](https://github.com/shiahonb777/web-to-app) - A native Android application that converts any website URL into a standalone Android App.
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube and other services freely.
@@ -625,6 +627,7 @@
 
 ## flutter 
 
+- [zarzet/SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
 - [adeeteya/Classipod](https://github.com/adeeteya/Classipod) - A local music player app designed to capture the nostalgic essence of the iconic iPod Classic.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
@@ -731,6 +734,7 @@
 
 ## golang 
 
+- [zarzet/SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
 - [sedwards2009/dinky](https://github.com/sedwards2009/dinky) - A small but friendly, terminal based text editor
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
@@ -830,6 +834,7 @@
 
 ## ios 
 
+- [zarzet/SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
@@ -1648,6 +1653,7 @@
 
 ## web 
 
+- [shiahonb777/web-to-app](https://github.com/shiahonb777/web-to-app) - A native Android application that converts any website URL into a standalone Android App.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
