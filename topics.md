@@ -129,6 +129,7 @@
 - [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [mobile](#mobile)
+- [mongodb](#mongodb)
 - [monitoring](#monitoring)
 - [music](#music)
 - [neovim](#neovim)
@@ -1051,6 +1052,10 @@
 
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 
+## mongodb 
+
+- [gbtami/pychess-variants](https://github.com/gbtami/pychess-variants) - Chess variants server
+
 ## monitoring 
 
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -1365,6 +1370,7 @@
 
 ## python3 
 
+- [gbtami/pychess-variants](https://github.com/gbtami/pychess-variants) - Chess variants server
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
 - [AnonymouX47/term-image](https://github.com/AnonymouX47/term-image) - Display images in the terminal with python
 - [IndieSmiths/nodezator](https://github.com/IndieSmiths/nodezator) - A generalist Python node editor
@@ -1601,6 +1607,7 @@
 
 ## typescript 
 
+- [gbtami/pychess-variants](https://github.com/gbtami/pychess-variants) - Chess variants server
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
