@@ -130,6 +130,7 @@
 
 ## JavaScript 
 
+- [idstro59-dot/distributionhub-fork](https://github.com/idstro59-dot/distributionhub-fork) - A handy website that allows you to download all Linux/BSD distributions in one place with one click.
 - [mult1v4c/hestia-core](https://github.com/mult1v4c/hestia-core) - A grid-based, modular dashboard built entirely from HTML, CSS, and JS with the ability to create your custom API integrations.
 - [jeroenpardon/sui](https://github.com/jeroenpardon/sui) - a startpage for your server and / or new tab page
 - [mattrltrent/github_painter](https://github.com/mattrltrent/github_painter) - 🎨 Create a custom design for your GitHub Commit Contribution Graph. 1st on Google. Try it!
@@ -314,6 +315,7 @@
 
 ## Rust 
 
+- [pyratatui/pyratatui](https://github.com/pyratatui/pyratatui) - 🚀🦀⚡  Rust-powered terminal UI for Python — fast, typed, animated, and ergonomic  🔥💎🌈
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [ishrut/raclettui](https://github.com/ishrut/raclettui) - Build terminal-themed wayland layer shell applications with Rust.
 - [jordond/jolt](https://github.com/jordond/jolt) - ⚡️A terminal-based battery and energy monitor for macOS and Linux.
