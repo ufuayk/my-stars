@@ -130,6 +130,7 @@
 
 ## JavaScript 
 
+- [orhun/personal-blog](https://github.com/orhun/personal-blog) - The source of my blog ✍🏼
 - [idstro59-dot/distributionhub-fork](https://github.com/idstro59-dot/distributionhub-fork) - A handy website that allows you to download all Linux/BSD distributions in one place with one click.
 - [mult1v4c/hestia-core](https://github.com/mult1v4c/hestia-core) - A grid-based, modular dashboard built entirely from HTML, CSS, and JS with the ability to create your custom API integrations.
 - [jeroenpardon/sui](https://github.com/jeroenpardon/sui) - a startpage for your server and / or new tab page
