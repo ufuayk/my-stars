@@ -1170,6 +1170,7 @@
 
 ## others 
 
+- [oSoWoSo/distributionhub](https://github.com/oSoWoSo/distributionhub) - A handy website that allows you to download all Linux/BSD distributions in one place with one click.
 - [orhun/personal-blog](https://github.com/orhun/personal-blog) - The source of my blog ✍🏼
 - [idstro59-dot/distributionhub-fork](https://github.com/idstro59-dot/distributionhub-fork) - A handy website that allows you to download all Linux/BSD distributions in one place with one click.
 - [lichess-org/api](https://github.com/lichess-org/api) - Lichess API documentation and examples
@@ -1443,7 +1444,7 @@
 
 - [pyratatui/pyratatui](https://github.com/pyratatui/pyratatui) - 🚀🦀⚡  Rust-powered terminal UI for Python — fast, typed, animated, and ergonomic  🔥💎🌈
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
-- [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader
+- [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader (+djvu)
 - [marhkb/pods](https://github.com/marhkb/pods) - Keep track of your podman containers
 - [oleiade/motus](https://github.com/oleiade/motus) - A dead simple password generator
 - [rochacbruno/marmite](https://github.com/rochacbruno/marmite) - Markdown makes sites - A Static Site Generator for Blogs
@@ -1600,7 +1601,7 @@
 - [Aniket-508/termcn](https://github.com/Aniket-508/termcn) - Beautiful terminal UI components, built on Ink. 100% Free, Zero config, one command setup.
 - [pyratatui/pyratatui](https://github.com/pyratatui/pyratatui) - 🚀🦀⚡  Rust-powered terminal UI for Python — fast, typed, animated, and ergonomic  🔥💎🌈
 - [jordond/jolt](https://github.com/jordond/jolt) - ⚡️A terminal-based battery and energy monitor for macOS and Linux.
-- [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader
+- [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader (+djvu)
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 - [AnonymouX47/term-image](https://github.com/AnonymouX47/term-image) - Display images in the terminal with python
