@@ -321,7 +321,7 @@
 - [ishrut/raclettui](https://github.com/ishrut/raclettui) - Build terminal-themed wayland layer shell applications with Rust.
 - [jordond/jolt](https://github.com/jordond/jolt) - ⚡️A terminal-based battery and energy monitor for macOS and Linux.
 - [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader (+djvu)
-- [marhkb/pods](https://github.com/marhkb/pods) - Keep track of your podman containers
+- [marhkb/pods](https://github.com/marhkb/pods) - Manage your containers
 - [kamaaina/macropad_tool](https://github.com/kamaaina/macropad_tool) - tool to program a macropad
 - [oleiade/motus](https://github.com/oleiade/motus) - A dead simple password generator
 - [rochacbruno/marmite](https://github.com/rochacbruno/marmite) - Markdown makes sites - A Static Site Generator for Blogs
