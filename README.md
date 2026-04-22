@@ -209,6 +209,7 @@
 
 ## Others 
 
+- [orhun/ratty](https://github.com/orhun/ratty) - A next-gen terminal emulator for all the terminal rats 🐁🐁🐁
 - [RUBIYC/brand-content](https://github.com/RUBIYC/brand-content) - RUBIYC's cool brand identity. *drumroll*
 - [wailsapp/awesome-wails](https://github.com/wailsapp/awesome-wails) - ⭐ A carefully selected list of Wails applications
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
@@ -390,13 +391,14 @@
 
 ## Swift 
 
+- [OpenIntelWireless/HeliPort](https://github.com/OpenIntelWireless/HeliPort) - Intel Wi-Fi Client for itlwm
 - [f/textream](https://github.com/f/textream) - Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. With extens
 - [the-ora/browser](https://github.com/the-ora/browser) - Less noise, more browsing.
 - [f/Clues.app](https://github.com/f/Clues.app) - This app is built using only AI Tools.
 
 ## TypeScript 
 
-- [Aniket-508/termcn](https://github.com/Aniket-508/termcn) - Beautiful terminal UI components, built on Ink. 100% Free, Zero config, one command setup.
+- [shadcn-labs/termcn](https://github.com/shadcn-labs/termcn) - Beautiful terminal UI components, built on Ink. 100% Free, Zero config, one command setup.
 - [lichess-org/api](https://github.com/lichess-org/api) - Lichess API documentation and examples
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
