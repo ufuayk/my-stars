@@ -378,7 +378,7 @@
 
 ## cli 
 
-- [Aniket-508/termcn](https://github.com/Aniket-508/termcn) - Beautiful terminal UI components, built on Ink. 100% Free, Zero config, one command setup.
+- [shadcn-labs/termcn](https://github.com/shadcn-labs/termcn) - Beautiful terminal UI components, built on Ink. 100% Free, Zero config, one command setup.
 - [oleiade/motus](https://github.com/oleiade/motus) - A dead simple password generator
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
@@ -986,6 +986,7 @@
 
 ## macos 
 
+- [OpenIntelWireless/HeliPort](https://github.com/OpenIntelWireless/HeliPort) - Intel Wi-Fi Client for itlwm
 - [f/textream](https://github.com/f/textream) - Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. With extens
 - [playwora/wora](https://github.com/playwora/wora) - 🎧 A beautiful player for audiophiles.
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
@@ -1157,6 +1158,7 @@
 
 ## others 
 
+- [orhun/ratty](https://github.com/orhun/ratty) - A next-gen terminal emulator for all the terminal rats 🐁🐁🐁
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [oSoWoSo/distributionhub](https://github.com/oSoWoSo/distributionhub) - A handy website that allows you to download all Linux/BSD distributions in one place with one click.
 - [orhun/personal-blog](https://github.com/orhun/personal-blog) - The source of my blog ✍🏼
@@ -1385,7 +1387,7 @@
 
 ## react 
 
-- [Aniket-508/termcn](https://github.com/Aniket-508/termcn) - Beautiful terminal UI components, built on Ink. 100% Free, Zero config, one command setup.
+- [shadcn-labs/termcn](https://github.com/shadcn-labs/termcn) - Beautiful terminal UI components, built on Ink. 100% Free, Zero config, one command setup.
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
@@ -1584,7 +1586,7 @@
 
 ## tui 
 
-- [Aniket-508/termcn](https://github.com/Aniket-508/termcn) - Beautiful terminal UI components, built on Ink. 100% Free, Zero config, one command setup.
+- [shadcn-labs/termcn](https://github.com/shadcn-labs/termcn) - Beautiful terminal UI components, built on Ink. 100% Free, Zero config, one command setup.
 - [pyratatui/pyratatui](https://github.com/pyratatui/pyratatui) - 🚀🦀⚡  Rust-powered terminal UI for Python — fast, typed, animated, and ergonomic  🔥💎🌈
 - [jordond/jolt](https://github.com/jordond/jolt) - ⚡️A terminal-based battery and energy monitor for macOS and Linux.
 - [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader (+djvu)
