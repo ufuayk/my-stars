@@ -208,6 +208,7 @@
 
 ## 3d 
 
+- [orhun/ratty](https://github.com/orhun/ratty) - A GPU-rendered terminal emulator that supports inline 3D graphics 🐀🧀
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
 
 ## agent 
@@ -1170,7 +1171,6 @@
 ## others 
 
 - [ufuayk/metu-ocw-scraper](https://github.com/ufuayk/metu-ocw-scraper) - A Python based scraper for METU OpenCourseWare.
-- [orhun/ratty](https://github.com/orhun/ratty) - A next-gen terminal emulator for all the terminal rats 🐁🐁🐁
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [oSoWoSo/distributionhub](https://github.com/oSoWoSo/distributionhub) - A handy website that allows you to download all Linux/BSD distributions in one place with one click.
 - [orhun/personal-blog](https://github.com/orhun/personal-blog) - The source of my blog ✍🏼
@@ -1444,6 +1444,7 @@
 ## rust 
 
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
+- [orhun/ratty](https://github.com/orhun/ratty) - A GPU-rendered terminal emulator that supports inline 3D graphics 🐀🧀
 - [pyratatui/pyratatui](https://github.com/pyratatui/pyratatui) - 🚀🦀⚡  Rust-powered terminal UI for Python — fast, typed, animated, and ergonomic  🔥💎🌈
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader (+djvu)
@@ -1572,6 +1573,7 @@
 ## terminal 
 
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
+- [orhun/ratty](https://github.com/orhun/ratty) - A GPU-rendered terminal emulator that supports inline 3D graphics 🐀🧀
 - [pyratatui/pyratatui](https://github.com/pyratatui/pyratatui) - 🚀🦀⚡  Rust-powered terminal UI for Python — fast, typed, animated, and ergonomic  🔥💎🌈
 - [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - Terminal UI OS (Terminal Multiplexer)
 - [sedwards2009/dinky](https://github.com/sedwards2009/dinky) - A small but friendly, terminal based text editor
