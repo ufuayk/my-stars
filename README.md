@@ -318,7 +318,7 @@
 ## Rust 
 
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
-- [orhun/ratty](https://github.com/orhun/ratty) - A next-gen terminal emulator for all the terminal rats 🐁🐁🐁
+- [orhun/ratty](https://github.com/orhun/ratty) - A GPU-rendered terminal emulator that supports inline 3D graphics 🐀🧀
 - [pyratatui/pyratatui](https://github.com/pyratatui/pyratatui) - 🚀🦀⚡  Rust-powered terminal UI for Python — fast, typed, animated, and ergonomic  🔥💎🌈
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [ishrut/raclettui](https://github.com/ishrut/raclettui) - Build terminal-themed wayland layer shell applications with Rust.
