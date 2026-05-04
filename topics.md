@@ -1170,7 +1170,6 @@
 
 ## others 
 
-- [ufuayk/metu-ocw-scraper](https://github.com/ufuayk/metu-ocw-scraper) - A Python based scraper for METU OpenCourseWare.
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [oSoWoSo/distributionhub](https://github.com/oSoWoSo/distributionhub) - A handy website that allows you to download all Linux/BSD distributions in one place with one click.
 - [orhun/personal-blog](https://github.com/orhun/personal-blog) - The source of my blog ✍🏼
