@@ -44,6 +44,7 @@
 
 ## C 
 
+- [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Firmware for the Xteink X4 e-paper display reader
 - [svenstaro/rofi-calc](https://github.com/svenstaro/rofi-calc) - 🖩 Do live calculations in rofi!
 - [86Box/86Box](https://github.com/86Box/86Box) - Emulator of x86-based machines.
 
