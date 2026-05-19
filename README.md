@@ -379,7 +379,7 @@
 - [JaKooLit/Arch-Hyprland](https://github.com/JaKooLit/Arch-Hyprland) - For automated installation of Hyprland on Arch Linux or any Arch Linux-based distros
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
 - [oSoWoSo/DistroHopper](https://github.com/oSoWoSo/DistroHopper) - Quickly download, create and run VM of any#TODO operating system.
-- [Benexl/yt-x](https://github.com/Benexl/yt-x) - Browse youtube from your terminal
+- [Benexl/yt-x](https://github.com/Benexl/yt-x) - Browse youtube plus other yt-dlp supported sites from your terminal
 - [ufuayk/ssh](https://github.com/ufuayk/ssh) - sadece basit, aptal bir aç/kapa ssh yöneticisi
 - [JaKooLit/Fedora-Hyprland](https://github.com/JaKooLit/Fedora-Hyprland) - For automated installation of Hyprland on Fedora (latest release) or any Fedora based distros
 - [pipeseroni/pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver
