@@ -403,6 +403,7 @@
 
 ## TypeScript 
 
+- [ter-9001/WannaCut](https://github.com/ter-9001/WannaCut) - The open-source CapCut alternative for Linux
 - [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
 - [shadcn-labs/termcn](https://github.com/shadcn-labs/termcn) - Beautiful terminal UI components, built on Ink and OpenTUI. 100% Free, Zero config, one command setup.
 - [lichess-org/api](https://github.com/lichess-org/api) - Lichess API documentation and examples
