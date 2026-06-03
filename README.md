@@ -146,7 +146,7 @@
 - [ufuayk/hyprconf-gen](https://github.com/ufuayk/hyprconf-gen) - A Hyprland configuration editor. In your browser!
 - [JuliaPluto/Pluto.jl](https://github.com/JuliaPluto/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [f/fig4ai](https://github.com/f/fig4ai) - 
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [ufuayk/FOCUSPDF](https://github.com/ufuayk/FOCUSPDF) - Meet FOCUSPDF. Your next PDF viewer.
@@ -183,7 +183,7 @@
 
 ## Kotlin 
 
-- [shiahonb777/web-to-app](https://github.com/shiahonb777/web-to-app) - A native Android application that converts any website URL into a standalone Android App.
+- [shiaho777/web-to-app](https://github.com/shiaho777/web-to-app) - A native Android application that converts any website URL into a standalone Android App.
 - [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
@@ -459,7 +459,7 @@
 
 ## Zig 
 
-- [foxnne/fizzy](https://github.com/foxnne/fizzy) - Pixel art editor made with Zig.
+- [fizzyedit/fizzy](https://github.com/fizzyedit/fizzy) - Pixel art editor made with Zig
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
