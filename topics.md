@@ -1178,7 +1178,6 @@
 ## others 
 
 - [ic005k/OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) - Cross-platform GUI management tools for OpenCore（OCAT）
-- [notiflux/OpenCore-Configurator](https://github.com/notiflux/OpenCore-Configurator) - A configurator for the OpenCore Bootloader
 - [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Firmware for the Xteink X3 and X4 e-paper display readers
 - [asle/lenovo_m93p_mini_hackintosh](https://github.com/asle/lenovo_m93p_mini_hackintosh) - 
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
