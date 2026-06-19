@@ -454,7 +454,7 @@
 
 ## config 
 
-- [ufuayk/hyprconf-gen](https://github.com/ufuayk/hyprconf-gen) - A Hyprland configuration editor. In your browser!
+- [ufuayk/hyprconf-gen](https://github.com/ufuayk/hyprconf-gen) - A lightweight Hyprland configuration editor. In your browser!
 
 ## cpp 
 
