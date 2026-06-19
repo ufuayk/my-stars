@@ -119,6 +119,7 @@
 
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [ralsina/grafito](https://github.com/ralsina/grafito) - A simple, nice journald web frontend
+- [ufuayk/hyprconf-gen](https://github.com/ufuayk/hyprconf-gen) - A lightweight Hyprland configuration editor. In your browser!
 - [ufuayk/ai-benchmark-portfolio](https://github.com/ufuayk/ai-benchmark-portfolio) - Results of mainstream AIs for a single coding prompt.
 - [ufuayk/ai-benchmark-saas](https://github.com/ufuayk/ai-benchmark-saas) - Results of mainstream AIs for a single coding prompt.
 - [ufuayk/ai-benchmark-weather](https://github.com/ufuayk/ai-benchmark-weather) - Results of mainstream AIs for a single coding prompt.
@@ -144,7 +145,6 @@
 - [shreyashkakad/dotfiles-web](https://github.com/shreyashkakad/dotfiles-web) - a platform for showcasing custom linux configuration and their dotfiles.
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
-- [ufuayk/hyprconf-gen](https://github.com/ufuayk/hyprconf-gen) - A Hyprland configuration editor. In your browser!
 - [JuliaPluto/Pluto.jl](https://github.com/JuliaPluto/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
