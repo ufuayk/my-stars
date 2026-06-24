@@ -1267,7 +1267,7 @@
 - [ekinndev/yokatlas-universite](https://github.com/ekinndev/yokatlas-universite) - Yökatlas Üniversite Bölüm Listesi Bot
 - [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
 - [ufuayk/smartboard-buddy](https://github.com/ufuayk/smartboard-buddy) - An interactive web application designed to assist teachers using smart boards in classrooms.
-- [iinsertNameHere/catnap](https://github.com/iinsertNameHere/catnap) - A highly customizable systemfetch written in nim
+- [iinsertNameHere/catnap](https://github.com/iinsertNameHere/catnap) - A small systemfetch written in nim
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [alicangunduz/30-Days-Of-JavaScript-Turkce](https://github.com/alicangunduz/30-Days-Of-JavaScript-Turkce) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
 - [alicangunduz/yeni-yazilimcilar-icin](https://github.com/alicangunduz/yeni-yazilimcilar-icin) - 👋🏻  Merhabalar bu kaynak yazılıma yeni başlamış geliştiriciler için tamamen ücretsiz türkçe kaynaklardan oluşturulmuştur. Kaynağı daha rahat bulmak için sağ üstte yer alan ⭐ butonunu kullanabilirsiniz
