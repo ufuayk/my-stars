@@ -762,6 +762,7 @@
 
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
+- [iinsertNameHere/catnap](https://github.com/iinsertNameHere/catnap) - A small systemfetch written in nim
 - [Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - This project is waiting for your contribution. If you have never contributed code on GitHub before, this is the project to get you started.
 
 ## google 
@@ -1111,6 +1112,7 @@
 - [yglukhov/nimx](https://github.com/yglukhov/nimx) - GUI library
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
+- [iinsertNameHere/catnap](https://github.com/iinsertNameHere/catnap) - A small systemfetch written in nim
 
 ## no-code 
 
@@ -1267,7 +1269,6 @@
 - [ekinndev/yokatlas-universite](https://github.com/ekinndev/yokatlas-universite) - Yökatlas Üniversite Bölüm Listesi Bot
 - [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
 - [ufuayk/smartboard-buddy](https://github.com/ufuayk/smartboard-buddy) - An interactive web application designed to assist teachers using smart boards in classrooms.
-- [iinsertNameHere/catnap](https://github.com/iinsertNameHere/catnap) - A small systemfetch written in nim
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [alicangunduz/30-Days-Of-JavaScript-Turkce](https://github.com/alicangunduz/30-Days-Of-JavaScript-Turkce) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
 - [alicangunduz/yeni-yazilimcilar-icin](https://github.com/alicangunduz/yeni-yazilimcilar-icin) - 👋🏻  Merhabalar bu kaynak yazılıma yeni başlamış geliştiriciler için tamamen ücretsiz türkçe kaynaklardan oluşturulmuştur. Kaynağı daha rahat bulmak için sağ üstte yer alan ⭐ butonunu kullanabilirsiniz
