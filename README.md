@@ -153,7 +153,7 @@
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [ufuayk/FOCUSPDF](https://github.com/ufuayk/FOCUSPDF) - Meet FOCUSPDF. Your next PDF viewer.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [ufuayk/uniter](https://github.com/ufuayk/uniter) - [TR] Bu uygulama, öğrencilerin YKS sıralamalarına göre yerleşebilecekleri bölümleri kolayca bulmalarını sağlar.
+- [ufuayk/uniter](https://github.com/ufuayk/uniter) - [TR] Bu uygulama, öğrencilerin YKS sıralamalarına göre yerleşebilecekleri bölümleri kolayca bulmalarını sağlar. ŞU ANLIK KAPALI.
 - [ekinndev/yokatlas-universite](https://github.com/ekinndev/yokatlas-universite) - Yökatlas Üniversite Bölüm Listesi Bot
 - [ufuayk/smartboard-buddy](https://github.com/ufuayk/smartboard-buddy) - An interactive web application designed to assist teachers using smart boards in classrooms.
 - [ufuayk/My-Dream-Factory](https://github.com/ufuayk/My-Dream-Factory) - Welcome to My Dream Factory, a simulation game where you manage a manufacturing business and optimize operations.
