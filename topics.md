@@ -1274,7 +1274,7 @@
 - [ufuayk/ssh](https://github.com/ufuayk/ssh) - sadece basit, aptal bir aç/kapa ssh yöneticisi
 - [JaKooLit/Fedora-Hyprland](https://github.com/JaKooLit/Fedora-Hyprland) - For automated installation of Hyprland on Fedora (latest release) or any Fedora based distros
 - [LuNiZz/siber-guvenlik-sss](https://github.com/LuNiZz/siber-guvenlik-sss) - SSS sorulari burada...
-- [ufuayk/uniter](https://github.com/ufuayk/uniter) - [TR] Bu uygulama, öğrencilerin YKS sıralamalarına göre yerleşebilecekleri bölümleri kolayca bulmalarını sağlar.
+- [ufuayk/uniter](https://github.com/ufuayk/uniter) - [TR] Bu uygulama, öğrencilerin YKS sıralamalarına göre yerleşebilecekleri bölümleri kolayca bulmalarını sağlar. ŞU ANLIK KAPALI.
 - [rust-cli/book](https://github.com/rust-cli/book) - Documentation on how to use the Rust Programming Language to develop commandline applications
 - [ekinndev/yokatlas-universite](https://github.com/ekinndev/yokatlas-universite) - Yökatlas Üniversite Bölüm Listesi Bot
 - [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
