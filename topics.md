@@ -280,6 +280,7 @@
 
 ## archlinux 
 
+- [enhaoswen/Tide-island](https://github.com/enhaoswen/Tide-island) - Tide Island is a smooth, lightweight, and flexible interactive island for Hyprland.
 - [JaKooLit/Arch-Hyprland](https://github.com/JaKooLit/Arch-Hyprland) - For automated installation of Hyprland on Arch Linux or any Arch Linux-based distros
 
 ## arduino 
@@ -468,6 +469,7 @@
 
 ## cpp 
 
+- [enhaoswen/Tide-island](https://github.com/enhaoswen/Tide-island) - Tide Island is a smooth, lightweight, and flexible interactive island for Hyprland.
 - [zrythm/zrythm](https://github.com/zrythm/zrythm) - a highly automated and intuitive digital audio workstation - official mirror
 - [mkckr0/audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
 - [kraxarn/spotify-qt](https://github.com/kraxarn/spotify-qt) - Lightweight Spotify client using Qt
@@ -955,6 +957,7 @@
 
 ## linux 
 
+- [enhaoswen/Tide-island](https://github.com/enhaoswen/Tide-island) - Tide Island is a smooth, lightweight, and flexible interactive island for Hyprland.
 - [monocasual/giada](https://github.com/monocasual/giada) - Your Hardcore Loop Machine.
 - [mkckr0/audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
 - [simonkrauter/NiGui](https://github.com/simonkrauter/NiGui) - Cross-platform desktop GUI toolkit written in Nim
