@@ -50,6 +50,7 @@
 
 ## C# # 
 
+- [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows, Linux and macOS.
 - [octolance/n2d](https://github.com/octolance/n2d) - An easy to use ESP8266 flash tool with built-in support for the Deauther Project.
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [immense/Remotely](https://github.com/immense/Remotely) - A remote control and remote scripting solution, built with .NET 8, Blazor, and SignalR.
