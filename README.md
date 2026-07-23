@@ -189,7 +189,7 @@
 
 ## Kotlin 
 
-- [shiaho777/web-to-app](https://github.com/shiaho777/web-to-app) - A native Android application that converts any website URL into a standalone Android App.
+- [shiaho777/web-to-app](https://github.com/shiaho777/web-to-app) - The most full-featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone.
 - [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
@@ -324,7 +324,6 @@
 - [enhaoswen/Tide-island](https://github.com/enhaoswen/Tide-island) - Tide Island is a smooth, lightweight, and flexible interactive island for Hyprland.
 - [Brainitech/Brain_Shell](https://github.com/Brainitech/Brain_Shell) - Brain_Shell is a dynamic, highly visual and modular desktop shell built with Quickshell and QML, custom-tailored specifically for Hyprland.
 - [matteogini/dotfiles](https://github.com/matteogini/dotfiles) - 
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W OS - Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install from a Live ISO or with the Dotfiles Installer app wi
 
 ## Ruby 
@@ -382,6 +381,7 @@
 - [davatorium/rofi-scripts](https://github.com/davatorium/rofi-scripts) - Small scripts for use with rofi
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [IceWhaleTech/ZimaOS](https://github.com/IceWhaleTech/ZimaOS) - A Simplified, Focused and Open NAS OS_
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube and other services freely.
 - [dazeb/proxmox-dietpi-installer](https://github.com/dazeb/proxmox-dietpi-installer) - A Proxmox Helper Script to install DietPi in Proxmox
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
