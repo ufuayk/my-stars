@@ -315,7 +315,7 @@
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [ufuayk/Lightweight-Crosshair](https://github.com/ufuayk/Lightweight-Crosshair) - A lightweight and hackable on-screen crosshair software.
-- [beucismis/awesome-fetch](https://github.com/beucismis/awesome-fetch) - Command-line fetch tools for system/other information
+- [beucismis/awesome-fetch](https://github.com/beucismis/awesome-fetch) - A curated collection of command-line fetch tools
 - [tanthehack/noted](https://github.com/tanthehack/noted) - A light-weight, distraction free Markdown editor.  Written in Python and PyQT5.
 - [realsuayip/django-sozluk](https://github.com/realsuayip/django-sozluk) - an exhaustive ekşi sözlük clone, powered by Python
 - [ufuayk/Heads-or-Tails](https://github.com/ufuayk/Heads-or-Tails) - Heads-or-Tails makes flipping a coin easy! And it's fun.
@@ -325,7 +325,7 @@
 - [enhaoswen/Tide-island](https://github.com/enhaoswen/Tide-island) - Tide Island is a smooth, lightweight, and flexible interactive island for Hyprland.
 - [Brainitech/Brain_Shell](https://github.com/Brainitech/Brain_Shell) - Brain_Shell is a dynamic, highly visual and modular desktop shell built with Quickshell and QML, custom-tailored specifically for Hyprland.
 - [matteogini/dotfiles](https://github.com/matteogini/dotfiles) - 
-- [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W OS - Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install from a Live ISO or with the Dotfiles Installer app wi
+- [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W OS - Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install for Arch Linux, Fedora and openSuse.
 
 ## Ruby 
 
@@ -335,7 +335,7 @@
 
 - [maolan/maolan](https://github.com/maolan/maolan) - Maolan DAW
 - [orhun/ratty](https://github.com/orhun/ratty) - A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀
-- [pyratatui/pyratatui](https://github.com/pyratatui/pyratatui) - 🚀🦀⚡  Rust-powered terminal UI for Python — fast, typed, animated, and ergonomic  🔥💎🌈
+- [pyratatui/pyratatui](https://github.com/pyratatui/pyratatui) - ratatui but for python
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [ishrut/raclettui](https://github.com/ishrut/raclettui) - Build terminal-themed wayland layer shell applications with Rust.
 - [jordond/jolt](https://github.com/jordond/jolt) - ⚡️A terminal-based battery and energy monitor for macOS and Linux.
