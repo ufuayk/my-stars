@@ -212,7 +212,7 @@
 ## Nim 
 
 - [simonkrauter/NiGui](https://github.com/simonkrauter/NiGui) - Cross-platform desktop GUI toolkit written in Nim
-- [ufuayk/nim-scripts](https://github.com/ufuayk/nim-scripts) - nim-script
+- [ufuayk/scripts](https://github.com/ufuayk/scripts) - My Nim scripts—though just how necessary they are is debatable.
 - [yglukhov/nimx](https://github.com/yglukhov/nimx) - GUI library
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
@@ -220,6 +220,8 @@
 
 ## Others 
 
+- [ufuayk/u](https://github.com/ufuayk/u) - A minimalist CLI file manager based on the Ruby language. For macOS.
+- [ufuayk/crossac-repo](https://github.com/ufuayk/crossac-repo) - Crossac's community crosshair library.
 - [MeadowlarkDAW/Meadowlark](https://github.com/MeadowlarkDAW/Meadowlark) - A (currently incomplete) open-source Digital Audio Workstation
 - [asle/lenovo_m93p_mini_hackintosh](https://github.com/asle/lenovo_m93p_mini_hackintosh) - 
 - [wailsapp/awesome-wails](https://github.com/wailsapp/awesome-wails) - ⭐ A carefully selected list of Wails applications
