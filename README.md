@@ -220,7 +220,6 @@
 
 ## Others 
 
-- [ufuayk/u](https://github.com/ufuayk/u) - A minimalist CLI file manager based on the Ruby language. For macOS.
 - [ufuayk/crossac-repo](https://github.com/ufuayk/crossac-repo) - Crossac's community crosshair library.
 - [MeadowlarkDAW/Meadowlark](https://github.com/MeadowlarkDAW/Meadowlark) - A (currently incomplete) open-source Digital Audio Workstation
 - [asle/lenovo_m93p_mini_hackintosh](https://github.com/asle/lenovo_m93p_mini_hackintosh) - 
@@ -331,6 +330,7 @@
 
 ## Ruby 
 
+- [ufuayk/u](https://github.com/ufuayk/u) - A minimal, colorful and sleek terminal file manager for macOS.
 - [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) - A guide to contributing to open source
 
 ## Rust 
@@ -357,7 +357,7 @@
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [irevenko/ferris-fetch](https://github.com/irevenko/ferris-fetch) - 🎨🦀 A system information tool for Rustaceans
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [ufuayk/webscraping](https://github.com/ufuayk/webscraping) - Web scraping script.
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
