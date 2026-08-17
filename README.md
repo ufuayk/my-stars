@@ -84,7 +84,6 @@
 ## CSS 
 
 - [ufuayk/VibeGitHub](https://github.com/ufuayk/VibeGitHub) - An extension for the "GitHub, but vibe coded" meme.
-- [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [nwg-piotr/nwg-iso](https://github.com/nwg-piotr/nwg-iso) - Arch Linux ISO with nwg-shell for sway and Hyprland
 - [ufuayk/config](https://github.com/ufuayk/config) - my hypr config
 - [waroi/TurkcellFrontend2025](https://github.com/waroi/TurkcellFrontend2025) - TurkcellFrontend2025
@@ -276,6 +275,7 @@
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [gbtami/pychess-variants](https://github.com/gbtami/pychess-variants) - Chess variants server
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
+- [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm) - Universal Wayland Session Manager
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
@@ -284,7 +284,7 @@
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
 - [saidsurucu/yokatlas-py](https://github.com/saidsurucu/yokatlas-py) - A Python wrapper for YOK Atlas API.
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [ufuayk/c0admin](https://github.com/ufuayk/c0admin) - A terminal-based AI assistant for Linux sysadmins.
@@ -331,7 +331,7 @@
 
 ## Ruby 
 
-- [ufuayk/u](https://github.com/ufuayk/u) - A minimal, colorful and sleek terminal file manager for macOS.
+- [ufuayk/u](https://github.com/ufuayk/u) - A minimal and sleek terminal file manager for macOS (and GNU/Linux).
 - [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) - A guide to contributing to open source
 
 ## Rust 
@@ -420,6 +420,7 @@
 
 ## TypeScript 
 
+- [gloom-sh/gloomberb](https://github.com/gloom-sh/gloomberb) - Finance terminal, in your terminal.
 - [andremichelle/openDAW](https://github.com/andremichelle/openDAW) - openDAW is a next-generation web-based Digital Audio Workstation (DAW)
 - [ter-9001/WannaCut](https://github.com/ter-9001/WannaCut) - The open-source CapCut alternative for Linux and Windows
 - [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
