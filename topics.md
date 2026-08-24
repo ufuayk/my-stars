@@ -154,6 +154,7 @@
 - [php](#php)
 - [pico-8](#pico-8)
 - [pixel-art](#pixel-art)
+- [portfolio](#portfolio)
 - [portfolio-website](#portfolio-website)
 - [postgresql](#postgresql)
 - [privacy](#privacy)
@@ -186,6 +187,7 @@
 - [sql-server](#sql-server)
 - [sqlite](#sqlite)
 - [svelte](#svelte)
+- [swift](#swift)
 - [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
 - [terminal](#terminal)
@@ -222,6 +224,7 @@
 
 ## ai 
 
+- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows pre-build available! A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x
 - [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - The open-source AI Management System
@@ -882,6 +885,7 @@
 
 ## ios 
 
+- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows pre-build available! A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x
 - [spotiflacapp/SpotiFLAC-Mobile](https://github.com/spotiflacapp/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -1053,6 +1057,7 @@
 
 ## macos 
 
+- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows pre-build available! A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x
 - [sveinbjornt/Platypus](https://github.com/sveinbjornt/Platypus) - Create native macOS applications from command line scripts.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [ufuayk/u](https://github.com/ufuayk/u) - A minimal and sleek terminal file manager for macOS (and GNU/Linux).
@@ -1365,6 +1370,13 @@
 
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 
+## portfolio 
+
+- [Vinayak-09/Vinayak-09.github.io](https://github.com/Vinayak-09/Vinayak-09.github.io) - Advance attractive personal portfolio website. It looks like chatting bot. Same design as Whatsapp chat. Lightweighted, Fast. Easy to use.
+- [ufuayk/Landing-Page](https://github.com/ufuayk/Landing-Page) - An example of a simple one-page portfolio site with tiny animations developed using HTML and CSS.
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
+- [ufuayk/Flask-Portfolio-Page](https://github.com/ufuayk/Flask-Portfolio-Page) - Single page, simple portfolio site example developed using Python and Flask.
+
 ## portfolio-website 
 
 - [Vinayak-09/Vinayak-09.github.io](https://github.com/Vinayak-09/Vinayak-09.github.io) - Advance attractive personal portfolio website. It looks like chatting bot. Same design as Whatsapp chat. Lightweighted, Fast. Easy to use.
@@ -1639,6 +1651,10 @@
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, Svelte, and TS/JS.
 - [MikhaD/wordle](https://github.com/MikhaD/wordle) - A recreation of the popular game Wordle with additional modes and features. Made with Svelte in Typescript.
+
+## swift 
+
+- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows pre-build available! A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x
 
 ## tailwind 
 
