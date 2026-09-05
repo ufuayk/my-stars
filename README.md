@@ -137,6 +137,7 @@
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [ufuayk/hey-markdown](https://github.com/ufuayk/hey-markdown) - A powerful Markdown editor for modern creators.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [yvoronoy/awesome-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English.
 - [Umitt96/Business-Game](https://github.com/Umitt96/Business-Game) - It's not responsive, only pc
 
 ## Java 
@@ -254,7 +255,6 @@
 - [apache/cordova](https://github.com/apache/cordova) - Apache Cordova
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [alicangunduz/yeni-yazilimcilar-icin](https://github.com/alicangunduz/yeni-yazilimcilar-icin) - 👋🏻  Merhabalar bu kaynak yazılıma yeni başlamış geliştiriciler için tamamen ücretsiz türkçe kaynaklardan oluşturulmuştur. Kaynağı daha rahat bulmak için sağ üstte yer alan ⭐ butonunu kullanabilirsiniz
-- [yvoronoy/awesome-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English.
 - [sileshn/Ryzentosh](https://github.com/sileshn/Ryzentosh) - Opencore files to run MacOS Catalina to Tahoe on AMD Ryzen 5 3600 CPU, AMD Radeon RX570 4gb GPU and Gigabyte B450 Aorus Elite motherboard using the BsxOc1 theme.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs — searchable, community-maintained, with a free JSON API.
@@ -460,7 +460,7 @@
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency.
 - [ribaunt/tekir](https://github.com/ribaunt/tekir) - Public source code for the Tekir, the capable search engine.
 - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK!
-- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [Nutlope/llamacoder](https://github.com/Nutlope/llamacoder) - Open source Claude Artifacts – built with Llama 3.1 405B
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
