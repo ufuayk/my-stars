@@ -25,6 +25,7 @@
 - [backend](#backend)
 - [bash](#bash)
 - [bootstrap](#bootstrap)
+- [c](#c)
 - [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
@@ -160,6 +161,7 @@
 - [privacy](#privacy)
 - [productivity](#productivity)
 - [programming](#programming)
+- [programming-language](#programming-language)
 - [project-management](#project-management)
 - [prompt-engineering](#prompt-engineering)
 - [pwa](#pwa)
@@ -375,6 +377,10 @@
 
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 
+## c 
+
+- [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
+
 ## c-plus-plus 
 
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -460,6 +466,7 @@
 
 ## compiler 
 
+- [julelang/jule](https://github.com/julelang/jule) - Simple and safe programming language with first-class C/C++ interoperability and powerful compile-time capabilities
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
@@ -966,6 +973,9 @@
 
 ## language 
 
+- [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
+- [julelang/jule](https://github.com/julelang/jule) - Simple and safe programming language with first-class C/C++ interoperability and powerful compile-time capabilities
+- [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -1250,6 +1260,7 @@
 
 ## others 
 
+- [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [legendary-gl/legendary](https://github.com/legendary-gl/legendary) - Legendary - A free and open-source replacement for the Epic Games Launcher
 - [ufuayk/crossac-repo](https://github.com/ufuayk/crossac-repo) - Crossac's community crosshair library.
 - [tranvuongquocdat/SideScreen](https://github.com/tranvuongquocdat/SideScreen) - 
@@ -1422,6 +1433,11 @@
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
+## programming-language 
+
+- [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
+- [julelang/jule](https://github.com/julelang/jule) - Simple and safe programming language with first-class C/C++ interoperability and powerful compile-time capabilities
+
 ## project-management 
 
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
@@ -1537,10 +1553,12 @@
 
 ## ruby 
 
+- [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 - [ufuayk/u](https://github.com/ufuayk/u) - A minimal and sleek terminal file manager for macOS (and GNU/Linux).
 
 ## rust 
 
+- [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 - [MeadowlarkDAW/Meadowlark](https://github.com/MeadowlarkDAW/Meadowlark) - A (currently incomplete) open-source Digital Audio Workstation
 - [maolan/maolan](https://github.com/maolan/maolan) - Maolan DAW
 - [orhun/ratty](https://github.com/orhun/ratty) - A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀
