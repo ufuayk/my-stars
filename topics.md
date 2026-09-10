@@ -466,6 +466,7 @@
 
 ## compiler 
 
+- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 - [julelang/jule](https://github.com/julelang/jule) - Simple and safe programming language with first-class C/C++ interoperability and powerful compile-time capabilities
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
@@ -973,9 +974,9 @@
 
 ## language 
 
+- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 - [julelang/jule](https://github.com/julelang/jule) - Simple and safe programming language with first-class C/C++ interoperability and powerful compile-time capabilities
-- [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -1435,6 +1436,7 @@
 
 ## programming-language 
 
+- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 - [julelang/jule](https://github.com/julelang/jule) - Simple and safe programming language with first-class C/C++ interoperability and powerful compile-time capabilities
 
