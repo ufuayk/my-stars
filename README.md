@@ -217,7 +217,7 @@
 ## Nim 
 
 - [simonkrauter/NiGui](https://github.com/simonkrauter/NiGui) - Cross-platform desktop GUI toolkit written in Nim
-- [ufuayk/scripts](https://github.com/ufuayk/scripts) - My Nim scripts—though just how necessary they are is debatable.
+- [ufuayk/scripts](https://github.com/ufuayk/scripts) - My Nim & Ruby scripts — though just how necessary they are is debatable.
 - [yglukhov/nimx](https://github.com/yglukhov/nimx) - GUI library
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
