@@ -349,7 +349,6 @@
 
 - [maolan/maolan](https://github.com/maolan/maolan) - Maolan DAW
 - [orhun/ratty](https://github.com/orhun/ratty) - A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀
-- [pyratatui/pyratatui](https://github.com/pyratatui/pyratatui) - ratatui but for python
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [ishrut/raclettui](https://github.com/ishrut/raclettui) - Build terminal-themed wayland layer shell applications with Rust.
 - [jordond/jolt](https://github.com/jordond/jolt) - ⚡️A terminal-based battery and energy monitor for macOS and Linux.
@@ -492,7 +491,7 @@
 
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [Stigmatoz/web-activity-time-tracker](https://github.com/Stigmatoz/web-activity-time-tracker) - Chrome Extension that tracks and limits time you spent on sites
-- [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
+- [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple, Speedy, Secure, and Serverless Link Shortener with Analytics, Running Entirely on Cloudflare.
 
 ## Zig 
 
