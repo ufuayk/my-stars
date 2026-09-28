@@ -62,6 +62,7 @@
 
 ## C++ 
 
+- [VoodooSMBus/VoodooRMI](https://github.com/VoodooSMBus/VoodooRMI) - Synaptic Trackpad driver over SMBus/I2C for macOS
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [julelang/jule](https://github.com/julelang/jule) - Simple and safe programming language with first-class C/C++ interoperability and powerful compile-time capabilities
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -231,7 +232,6 @@
 
 ## Others 
 
-- [ufuayk/OpenIndicator](https://github.com/ufuayk/OpenIndicator) - A macOS menu bar app showing battery, Wi-Fi, and volume as one glyph.
 - [ufuayk/crossac-repo](https://github.com/ufuayk/crossac-repo) - Crossac's community crosshair library.
 - [MeadowlarkDAW/Meadowlark](https://github.com/MeadowlarkDAW/Meadowlark) - A (currently incomplete) open-source Digital Audio Workstation
 - [asle/lenovo_m93p_mini_hackintosh](https://github.com/asle/lenovo_m93p_mini_hackintosh) - 
@@ -426,6 +426,7 @@
 
 ## Swift 
 
+- [ufuayk/OpenIndicator](https://github.com/ufuayk/OpenIndicator) - A macOS menu bar app showing battery, Wi-Fi, and volume as one glyph.
 - [jaskirat1616/mactap-app](https://github.com/jaskirat1616/mactap-app) - MacTap — knock your MacBook to run shortcuts
 - [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows pre-build available! A local Wispr Flow alternative. DM us on X exclusive model access! 😉 - htt
 - [tranvuongquocdat/SideScreen](https://github.com/tranvuongquocdat/SideScreen) - 
