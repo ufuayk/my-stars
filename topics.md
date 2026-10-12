@@ -1086,6 +1086,7 @@
 
 ## macos 
 
+- [ufuayk/pinotchchio](https://github.com/ufuayk/pinotchchio) - A macOS native notch app. Drop-down to-do list. No dates, no details...
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [VoodooSMBus/VoodooRMI](https://github.com/VoodooSMBus/VoodooRMI) - Synaptic Trackpad driver over SMBus/I2C for macOS
 - [ufuayk/OpenIndicator](https://github.com/ufuayk/OpenIndicator) - A macOS menu bar app showing battery, Wi-Fi, and volume as one glyph.
@@ -1892,6 +1893,7 @@
 
 ## xcode 
 
+- [ufuayk/pinotchchio](https://github.com/ufuayk/pinotchchio) - A macOS native notch app. Drop-down to-do list. No dates, no details...
 - [ufuayk/OpenIndicator](https://github.com/ufuayk/OpenIndicator) - A macOS menu bar app showing battery, Wi-Fi, and volume as one glyph.
 
 ## youtube 
