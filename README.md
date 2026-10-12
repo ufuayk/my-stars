@@ -431,6 +431,7 @@
 
 ## Swift 
 
+- [ufuayk/pinotchchio](https://github.com/ufuayk/pinotchchio) - A macOS native notch app. Drop-down to-do list. No dates, no details...
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [ufuayk/OpenIndicator](https://github.com/ufuayk/OpenIndicator) - A macOS menu bar app showing battery, Wi-Fi, and volume as one glyph.
 - [jaskirat1616/mactap-app](https://github.com/jaskirat1616/mactap-app) - MacTap — knock your MacBook to run shortcuts
