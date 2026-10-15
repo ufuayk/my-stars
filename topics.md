@@ -253,7 +253,7 @@
 
 ## ai-agents 
 
-- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 50+ tests passed.
 - [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
@@ -1285,6 +1285,7 @@
 
 ## others 
 
+- [pollen-robotics/gazepoint](https://github.com/pollen-robotics/gazepoint) - Python library to get gaze point from gazepoint device GP3
 - [Abhinavexists/lev](https://github.com/Abhinavexists/lev) - An open System One decision model
 - [fastino-ai/GLiNER2](https://github.com/fastino-ai/GLiNER2) - Unified Schema-Based Information Extraction
 - [jaskirat1616/mactap-app](https://github.com/jaskirat1616/mactap-app) - MacTap — knock your MacBook to run shortcuts
@@ -1480,7 +1481,7 @@
 - [ufuayk/playground](https://github.com/ufuayk/playground) - A playground for the laya (MLX) decision model.
 - [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per reque
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
-- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 50+ tests passed.
 - [programmersd21/pyratatui](https://github.com/programmersd21/pyratatui) - ratatui but for python
 - [Lenochxd/WebDeck](https://github.com/Lenochxd/WebDeck) - The free stream deck alternative
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
