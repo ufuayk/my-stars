@@ -1285,6 +1285,7 @@
 
 ## others 
 
+- [ml-explore/mlx-lm](https://github.com/ml-explore/mlx-lm) - Run LLMs with MLX
 - [pollen-robotics/gazepoint](https://github.com/pollen-robotics/gazepoint) - Python library to get gaze point from gazepoint device GP3
 - [Abhinavexists/lev](https://github.com/Abhinavexists/lev) - An open System One decision model
 - [fastino-ai/GLiNER2](https://github.com/fastino-ai/GLiNER2) - Unified Schema-Based Information Extraction
