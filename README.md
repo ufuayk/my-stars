@@ -152,6 +152,7 @@
 
 ## JavaScript 
 
+- [ufuayk/pdf](https://github.com/ufuayk/pdf) - pdf viewer, pdf-show, incredible
 - [banbar/harita.hacettepe.edu.tr](https://github.com/banbar/harita.hacettepe.edu.tr) - 
 - [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
 - [oSoWoSo/distributionhub](https://github.com/oSoWoSo/distributionhub) - A handy website that allows you to download all Linux/BSD distributions in one place with one click.
@@ -361,7 +362,7 @@
 
 ## Rust 
 
-- [ludovic111/horizon](https://github.com/ludovic111/horizon) - Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.
+- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.
 - [maolan/maolan](https://github.com/maolan/maolan) - Maolan DAW
 - [orhun/ratty](https://github.com/orhun/ratty) - A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀
 - [programmersd21/pyratatui](https://github.com/programmersd21/pyratatui) - ratatui but for python
