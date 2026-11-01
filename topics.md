@@ -1314,6 +1314,7 @@
 
 ## others 
 
+- [Arjun-Ingole/hop](https://github.com/Arjun-Ingole/hop) - Install Linux next to Windows without a USB stick
 - [ufuayk/pdf](https://github.com/ufuayk/pdf) - pdf viewer, pdf-show, incredible
 - [moodlehq/moodle-docker](https://github.com/moodlehq/moodle-docker) - A docker environment for moodle developers
 - [moodle/moodle](https://github.com/moodle/moodle) - Moodle - the world's open source learning platform
