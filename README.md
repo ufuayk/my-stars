@@ -27,6 +27,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [QML](#qml)
 - [Ruby](#ruby)
@@ -179,7 +180,7 @@
 - [shevabam/breaking-bad-quotes](https://github.com/shevabam/breaking-bad-quotes) - A simple API to retrieve some quotes of Breaking Bad, bitch!
 - [alicangunduz/30-Days-Of-JavaScript-Turkce](https://github.com/alicangunduz/30-Days-Of-JavaScript-Turkce) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
 - [ufuayk/distributionhub](https://github.com/ufuayk/distributionhub) - A handy website that allows you to download all Linux/BSD distributions in one place with one click.
-- [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes) - Mechvibes
+- [hainguyents13/mechvibes-electron](https://github.com/hainguyents13/mechvibes-electron) - Mechvibes Legacy: the original Electron version, no longer maintained. The official Mechvibes app is now at hainguyents13/mechvibes.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [Vinayak-09/Vinayak-09.github.io](https://github.com/Vinayak-09/Vinayak-09.github.io) - Advance attractive personal portfolio website. It looks like chatting bot. Same design as Whatsapp chat. Lightweighted, Fast. Easy to use.
 - [ufuayk/Genius-Start-Page](https://github.com/ufuayk/Genius-Start-Page) - Genius Start Page is a complex and customizable browser start page with a minimal design.
@@ -281,6 +282,10 @@
 ## Pascal 
 
 - [Droptop-Four/Droptop-Four](https://github.com/Droptop-Four/Droptop-Four) - Popular dropdown menu bar & app launcher for Windows & Rainmeter
+
+## PowerShell 
+
+- [Arjun-Ingole/hop](https://github.com/Arjun-Ingole/hop) - Install Linux next to Windows without a USB stick
 
 ## Python 
 
@@ -474,7 +479,7 @@
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
-- [kortix-ai/suna](https://github.com/kortix-ai/suna) - The open-source AI Operating System
+- [kortix-ai/suna](https://github.com/kortix-ai/suna) - Kortix CompanyOS – the open-source operating system for your company. Multiplayer AI agents, your company as code, sovereign on your infrastructure or ours.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform for agents and developers
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
