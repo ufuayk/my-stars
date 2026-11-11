@@ -219,6 +219,7 @@
 - [web-development](#web-development)
 - [webapp](#webapp)
 - [website](#website)
+- [whatsapp](#whatsapp)
 - [windows](#windows)
 - [windows-11](#windows-11)
 - [xcode](#xcode)
@@ -1917,6 +1918,11 @@
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [Vinayak-09/Vinayak-09.github.io](https://github.com/Vinayak-09/Vinayak-09.github.io) - Advance attractive personal portfolio website. It looks like chatting bot. Same design as Whatsapp chat. Lightweighted, Fast. Easy to use.
 - [ufuayk/Landing-Page](https://github.com/ufuayk/Landing-Page) - An example of a simple one-page portfolio site with tiny animations developed using HTML and CSS.
+
+## whatsapp 
+
+- [Vinayak-09/Vinayak-09.github.io](https://github.com/Vinayak-09/Vinayak-09.github.io) - Advance attractive personal portfolio website. It looks like chatting bot. Same design as Whatsapp chat. Lightweighted, Fast. Easy to use.
+- [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 
 ## windows 
 
