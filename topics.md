@@ -79,6 +79,7 @@
 - [finance](#finance)
 - [firefox](#firefox)
 - [flask](#flask)
+- [flipperzero](#flipperzero)
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
 - [font](#font)
@@ -731,6 +732,11 @@
 
 - [Lenochxd/WebDeck](https://github.com/Lenochxd/WebDeck) - The free stream deck alternative
 - [ufuayk/Flask-Portfolio-Page](https://github.com/ufuayk/Flask-Portfolio-Page) - Single page, simple portfolio site example developed using Python and Flask.
+
+## flipperzero 
+
+- [BruceDevices/firmware](https://github.com/BruceDevices/firmware) - Predatory ESP32 Firmware
+- [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
 
 ## flutter 
 
