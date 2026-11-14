@@ -305,7 +305,7 @@
 - [legendary-gl/legendary](https://github.com/legendary-gl/legendary) - Legendary - A free and open-source replacement for the Epic Games Launcher
 - [RareDevs/Rare](https://github.com/RareDevs/Rare) - Rare is an open source alternative for Epic Games Launcher, using Legendary.
 - [corpnewt/GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) - Py script that uses acidanthera's macserial to generate SMBIOS and optionally saves them to a plist.
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The agent-native framework for data apps and dashboards.
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 50+ tests passed.
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [pychess/pychess-variants](https://github.com/pychess/pychess-variants) - Chess variants server
